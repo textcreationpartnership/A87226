@@ -1,0 +1,833 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Confidence encountred: or, A vindication of the lawfulness of preaching without ordination. In answer to a book published by N.E. a friend of Mr. Tho Willes, intituled, The confident questionist questioned. Together with an answer to a letter of Mr. Tho. Willes, published in the said book. By which the lawfulness of preaching without ordination is cleared, and the ordination of the national ministers proved to be a nullity. By Jer. Ives.</title>
+            <author>Ives, Jeremiah, fl. 1653-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 135 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87226</idno>
+            <idno type="STC">Wing I1094</idno>
+            <idno type="STC">Thomason E936_1</idno>
+            <idno type="STC">ESTC R207711</idno>
+            <idno type="EEBO-CITATION">99866748</idno>
+            <idno type="PROQUEST">99866748</idno>
+            <idno type="VID">119033</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87226)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119033)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 140:E936[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Confidence encountred: or, A vindication of the lawfulness of preaching without ordination. In answer to a book published by N.E. a friend of Mr. Tho Willes, intituled, The confident questionist questioned. Together with an answer to a letter of Mr. Tho. Willes, published in the said book. By which the lawfulness of preaching without ordination is cleared, and the ordination of the national ministers proved to be a nullity. By Jer. Ives.</title>
+                  <author>Ives, Jeremiah, fl. 1653-1674.</author>
+               </titleStmt>
+               <extent>[6], 58 p.   </extent>
+               <publicationStmt>
+                  <publisher>and are to be sold by Dan. White at the seven Stars in Paul's Church-yard; or may be had at the authors house in Red-Cross-street,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: N. E., The confident questionist questioned.</note>
+                  <note>Annotation on Thomason copy: "ffeb: 24."; the 8 in the imprint date has been crossed out and "7" written in.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>N. E. --  Confident questionist questioned.</term>
+               <term>Willis, Thomas, 1619 or 20-1692.</term>
+               <term>Ives, Jeremiah, fl. 1653-1674.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Clergy --  Appointment, call, and election --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119033:1" rendition="simple:additions"/>
+            <p>Confidence Encountred: OR, A VINDICATION OF THE Lawfulneſs of PREACHING without Ordination.</p>
+            <p>In Anſwer to a Book publiſhed by <hi>N. E.</hi> a friend of Mr. <hi>Tho Willes,</hi> INTITULED, <hi>The confident Queſtioniſt Queſtioned.</hi>
+            </p>
+            <p>Together with An Anſwer to a Letter of Mr. <hi>Tho. Willes,</hi> publiſhed in the ſaid Book.</p>
+            <p>BY WHICH The Lawfulneſs of Preaching without Ordi<g ref="char:EOLhyphen"/>nation is cleared, and the Ordination of the Na<g ref="char:EOLhyphen"/>tional Miniſters proved to be a Nullity.</p>
+            <p>By JER. IVES.</p>
+            <q>
+               <p>How forcible are right words! but what do your arguings re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rove?</p>
+               <bibl>Job 6.25.</bibl>
+            </q>
+            <q>
+               <p>As every one hath received the gift, even ſo m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>niſter the ſame one to another, as good ſtewards of the manifold grace of God. If ANY MAN ſpeak, let him ſpeak as the oracl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of God</p>
+               <bibl>1 Pet. 4.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</bibl>
+            </q>
+            <p>Printed at <hi>London;</hi> and are to be ſold by <hi>Dan. White</hi> at the ſeven Stars in <hi>Paul</hi>'s Church-yard; or may be had at the Authors houſe in Red-Croſs-ſtreet. 1658.</p>
+         </div>
+         <div type="author_to_the_reader">
+            <pb facs="tcp:119033:2"/>
+            <pb facs="tcp:119033:2"/>
+            <head>To the READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have for thy further information in the things of Chriſt, publiſhed an Anſwer to ſome coun<g ref="char:EOLhyphen"/>ter Queries, which were made by an unknown Author, in the behalf of Mr. <hi>Tho. Willes</hi> his Doctrine concerning the ſinfulneſs of <hi>Preaching without Ordination;</hi> in which counter-Queries, thou maiſt be acquainted with the Author's Spirit, though by his concealing his Name, thou canſt not be ac<g ref="char:EOLhyphen"/>quainted with his Perſon; and by a ſtrict Obſervation of what he hath writ, thou maiſt ſee that he hath made good his own words, <hi>viz. That he had writ enough to puzzle,</hi>
+               <note n="*" place="margin">See his book <hi>page 4.</hi>
+               </note> 
+               <hi>rather then convince his Adver<g ref="char:EOLhyphen"/>ſary;</hi> and that appears by his many contradictions: one while he ſaith, <hi>The Clergy is routed;</hi> and by and by tells Mr. <hi>Willes, The Enemy is routed</hi>
+               <note n="*" place="margin">See his Epiſt. to the Reader, and compare it with his Epiſtle Dedicatory.</note>: one while he demands, whether <hi>Apollos</hi> was not ordained Miniſter when he preached publickly, <hi>Act. 18.</hi> and by and by he demands, if <hi>Apollos</hi> knew of any ſuch thing as Ordination from the Apoſtles, when he
+<pb facs="tcp:119033:3"/>preached, <hi>Act. 18.</hi> one while he demands, if there was a conſtituted original Church with Officers in it at this time, when <hi>Apollos</hi> preached,<note place="margin">See his book <hi>page 22, 23.</hi>
+               </note> 
+               <hi>Act. 18.</hi> and by and by he ſaith, That <hi>it is certain,</hi> Apollos <hi>was at this time an Officer;</hi> and bids me prove, that he was ever made an Officer after his preaching, <hi>Act. 18.</hi> Again, he ſaith, <hi>If the Church of</hi> Rome <hi>was a true Church, then her Miniſters were true Miniſters, when our Refor<g ref="char:EOLhyphen"/>mers were ordained by her.</hi> And demands, why I did not diſprove her to be a Church, <hi>pag. 41.</hi> and yet a little be<g ref="char:EOLhyphen"/>fore he ſaith, That <hi>ſhe was as bad when the Miniſters did receive Ordination from her, as ſhe was when they left her;</hi> and yet he ſaith, <hi>They left her not as ſhe was the Spouſe of Chriſt, but as ſhe was a Harlot,</hi> page <hi>39.</hi> ſo that he ſuppoſeth <hi>Rome</hi> to be a Harlot, and Chriſt's Spouſe at one and the ſame time. Again, he ſaith, <hi>page 37.</hi> That <hi>the corruptions of the corrupt Diſpen<g ref="char:EOLhyphen"/>ſers of Ordinances cannot make them null;</hi> and yet he ſaith, <hi>pag. 48. If it be true as Mr.</hi> Brookes <hi>ſaith,</hi> That the Miniſters of <hi>England</hi> are Antichriſtian; <hi>then all that they have baptized, muſt be baptized again.</hi> Is not this plain contradiction?</p>
+            <p>As he abounds with Contradictions, ſo he doth with Im<g ref="char:EOLhyphen"/>pertinencies, medling with the Trade that I follow, and my being a Souldier, and ſuch-like things, that concern not the Queſtion before him. Another while he blames me for that he doth himſelf, <hi>viz.</hi> of meddling with this Controverſie, and taking it out of Mr. <hi>Brookes</hi> his hand; when he un<g ref="char:EOLhyphen"/>dertook to anſwer a particular Paper, which was proper for none elſe to anſwer but Mr. <hi>Willes.</hi>
+            </p>
+            <p>Another while he blames me for that I did charge a thing upon Mr. <hi>Willes,</hi> that I had but one witneſs for; and
+<pb facs="tcp:119033:3"/>yet himſelf believes the Accuſed's bare Negation without any witneſs: for at that time when Mr. <hi>VVilles</hi> deſired a Gentleman to apprehend me for a Jeſuite, there was none preſent to witneſs beſides the Gentleman aforeſaid, though at our firſt meeting there was divers.</p>
+            <p>Again, one while he ſaith, <hi>Rome had power to or<g ref="char:EOLhyphen"/>dain Miniſters as Chriſt's Church;</hi> and by and by com<g ref="char:EOLhyphen"/>pares them to Thieves, and to <hi>Korah,</hi> at the time they or<g ref="char:EOLhyphen"/>dained the firſt Reformers.</p>
+            <p>Again, his Book is full of unman-like arguings, as ap<g ref="char:EOLhyphen"/>pears by his frequent begging the chief things in que<g ref="char:EOLhyphen"/>ſtion; otherwhile, when I demand a proof of thoſe things that are ſo frequently affirmed by Mr. <hi>VVilles,</hi> he demands how I prove they are not; and ſo turns the proof of the affirmation from himſelf, and puts his Reſpondent to prove Negations. Surely, this is not to give a Reaſon of our Hope to every one that asketh, with Meekneſs and Fear.</p>
+            <p>Again, he tells his Reader, That <hi>the Anabaptiſts are bloody,</hi> pag. <hi>31.</hi> and <hi>pag. 50.</hi> he ſaith, he gheſſes, that <hi>they are the men whoſe hands were moſt embrued in the blood of the late VVars:</hi> When indeed, the Ana<g ref="char:EOLhyphen"/>baptiſts were in no capacity at the beginning of theſe Wars, to blow thoſe ſparks of contention into a burning Flame, if they had had a minde to ſo bad a work.</p>
+            <p>Thus I have given thee a taſte of that Spirit that in<g ref="char:EOLhyphen"/>ſpired him in the writing of his Book, to which I have given an Anſwer; and though I have not anſwered to every word, yet I have anſwered every thing that hath any ſhew or colour of Reaſon in it, which I deſire thee
+<pb facs="tcp:119033:4"/>faithfully and impartially to conſider, trying all things, and holding fast that which is the best; and that thou maist ſo do, is the prayer and deſire of</p>
+            <closer>
+               <signed>Thy Friend, <hi>Jer. Ives.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:119033:4"/>
+            <head>Confidence encountred, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Mr. <hi>N. E.</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Ccording to your deſire, I have anſwered your Counter Queries you ſent to me with a Letter; and though you have med<g ref="char:EOLhyphen"/>led with a matter that concerns you not, yet know, that it concerns me to anſwer you, leſt you ſhould be confirmed in your folly: and though you contemn my Queries, as ſlight, and call me <hi>an unworthy Enemy,</hi> yet I have learned to ſay,</p>
+            <q>
+               <l>Contemptum ſtulti contemnere maxima laus eſt;</l>
+               <l>Contemni à ſtulto dedecus eſſe nego.</l>
+               <l>To ſcorn a Fool's contempt, is praiſe; and I,</l>
+               <l>His ſcorn, to be diſgrace, do quite deny.</l>
+            </q>
+            <p>And though you thought you had ſo routed me, that I would never appear again; yet know, that this was nothing but the violent beatings of the Waves and Billows of your ambition, which I thought neceſſary to put a check to, by this
+<pb n="2" facs="tcp:119033:5"/>enſuing Anſwer, leſt you ſhould be exalted above meaſure: for the prevention whereof, I have publiſhed this Reply. And therein,</p>
+            <p>I Shall firſt begin with your Title, wherein you call me <hi>a Confident Queſtioniſt:</hi> but if you had read my Epiſtle, you would have found, that I did queſtion, for Conſcience ſake, ſome things that Mr. <hi>Willes</hi> had delivered; and withal, did propound to the Reader, that if the Anſwers thereunto did ſatisfie, I ſhould bleſs the Father of Lights that had not ſuf<g ref="char:EOLhyphen"/>fered me to labour in vain. This was the greateſt altitude of my Confidence, and the heighth of my Ambition in that undertaking.</p>
+            <p>You proceed to an Epiſtle, where you tell your Reader, That <hi>if he be a Friend to Truth, he probably hath ere this been grieved to ſee the hoſt of Iſrael routed,</hi> &amp;c. <hi>and the Miniſtery SO MUCH ſhattered,</hi> &amp;c. why then do you glory and cry <hi>victoria,</hi> if the Clergy, which you call <hi>the Hoſt of</hi> Iſrael, be routed? ſhould not you mourn, as well as you would have your Reader? but in ſtead thereof, you blame your Enemy for glorying, as though he had no occaſion; and wear the Lawrel your ſelf, wreathing it upon your own brows, as though you had ſo routed your Enemy, that he would never rally: what need is there for the Reader to grieve, if Mr. <hi>Willes</hi> hath routed and ſhattered the choiceſt Ranks of his Enemies? (unleſs you flatter Mr. <hi>Willes,</hi> and deal truely with your Rea<g ref="char:EOLhyphen"/>der) for is not this ſtrange, that you tell your Reader,<note place="margin">See his Epiſtle to Mr. <hi>Willes.</hi>
+               </note> 
+               <hi>the Lords Hoſt is routed;</hi> and yet flat<g ref="char:EOLhyphen"/>ter with Mr. <hi>Willes,</hi> and tell him, <hi>the Enemy is routed?</hi> And by this you may ſee, that you are ſo unfit to be an Armour-Bearer in this Warfare, that you juſtly deſerve to be chaſhiered the Camp for your falſe Intelligence. For you tell Mr. <hi>Willes,</hi> the Enemy is ſhattered; and yet tell your Reader the Miniſtery are ſhattered. But is the Clergy ſhattered? no marvel then that the people are ſhattered: for, <hi>like Prieſt, like People:</hi> a ſhattered Clergy muſt not look
+<pb n="3" facs="tcp:119033:5"/>for any thing, but a diſcompoſed people. And truely, that is the greateſt Truth in your Packet: for how few of them agree in any thing ſave in the point of Tythes, common ex<g ref="char:EOLhyphen"/>perience can teſtifie, if you had ſaid nothing.</p>
+            <p>You go on ſtill in your Epiſtle, and tell your Reader, That <hi>if he be ſhaken, you have ſent him ſome Counter-Queries, and bid him judge, and try; and then</hi> (you ſay) <hi>you hope he will bluſh at his unconſtancy,</hi> &amp;c. So he may well, if what you have writ ſhould ſhake his underſtanding, then he muſt needs be one that is carried about with every Airy notion.</p>
+            <p>You further tell your Reader, That <hi>if he be an enemy to truth, he hath triumphed before the victory,</hi> &amp;c. How can that be? when you exhort to grieve, becauſe them that you call <hi>the Enemy,</hi> have routed the Hoſt: what is that leſs then Vi<g ref="char:EOLhyphen"/>ctory, if you ſpeak Truth?</p>
+            <p>You go on, and tell your Reader, That <hi>if Mr.</hi> Brookes <hi>or his Church, invited me to be the Patron of their cauſe, you might gueſs them to be miſerably baffled,</hi> &amp;c. Firſt, neither Mr. <hi>Brookes</hi> nor his Church ever invited me to do them this ſervice; but if they had, if their inviting me to be a Patron to the cauſe, had argued them to be miſerably baffled; how miſer<g ref="char:EOLhyphen"/>ably baffled did you fear your ſelf ſhould be in what you had writ, when you begged Mr. <hi>Willes</hi> to be your Patron?</p>
+            <p>You tell your Reader, That <hi>he cannot expect Mr.</hi> Willes <hi>ſhould hinder his more ſerious diſcuſſion of this weighty point, to take notice of my ſlight Queries.</hi> This, I confeſs, is an eaſie way to confute the ſtrongeſt Arguments, for a man that is contrary minded, to call them <hi>ſlight;</hi> and ſay, he is not at leaſure to anſwer them. If I had anſwered you thus, ſurely men would have judged, you had more ſtrength on your ſide, then you have.</p>
+            <p>You go on, and bid your Reader ſee, if here be not e<g ref="char:EOLhyphen"/>nough to puzzle me, <hi>&amp;c.</hi> You are now guilty of that which you blamed your Adverſary for, but now, <hi>viz.</hi> of triumphing before the Victory: but it ſeems then, the end of your wri<g ref="char:EOLhyphen"/>ting was to <hi>puzzle,</hi> and not to <hi>convince</hi> your Adverſary.</p>
+            <pb n="4" facs="tcp:119033:6"/>
+            <p>I proceed now to take notice of your Epiſtle to Mr. <hi>Willes,</hi> in which you tell him, <hi>my grounds are ſlight,</hi> &amp;c. This tri<g ref="char:EOLhyphen"/>umphing of yours, is but like that which <hi>Job</hi> ſpeaks of, that <hi>is but for a moment,</hi> Job 20.5.</p>
+            <p>You demand of Mr. <hi>Willes,</hi> in what ſence he aſſerted the baptizing the Children of wicked Parents, <hi>&amp;c.</hi> and you preſume he means onely ſuch as are Church-Members, and are not caſt out, <hi>&amp;c.</hi> Truely, either your Church are all good, or elſe you are partakers of their ſins in not caſting them out: for I have not heard of one vile perſon, that the Presbyters have excluded.</p>
+            <p>There is another Queſtion which you propound to Mr. <hi>Willes,</hi> viz <hi>What were his own words concerning the Fifth-Mo<g ref="char:EOLhyphen"/>narchy-men.</hi> About Mr. <hi>Willes</hi> aſſerting thoſe words touch<g ref="char:EOLhyphen"/>ing the Fifth-Monarchy-men, I have not wronged him, as hereafter ſhall appear.</p>
+            <p>You further ask Mr. <hi>Willes, Whether he did poſitively aſſert me to be a Jeſuite,</hi> &amp;c. Surely, you did not think Mr. <hi>Willes</hi> had ſo much to do as you made your Reader believe even now, that you ask him ſo needleſs a Queſtion: for did I ſay or intimate that Mr. <hi>Willes</hi> did poſitively aſſert me to be a Jeſuite? why did you not ask him whether I had two hands or three? it had been as much to your purpoſe. But to proceed.</p>
+            <p>You tell him, That <hi>if any thing appear in print in anſwer to the whole, it will beg his patronage of its cauſe,</hi> &amp;c. If he did not father it, it would be an Orphan, ſince the true Father will not be known. But doth not your Logick teach me to believe you feared to be miſerably baffled, ſince you thus beg for his Patronage? Surely, you thought your Wine to be mix'd with Water, that you beg Mr. <hi>Willes</hi> his Buſh to hang at your Door, that ſo it might ſell the better, and not be queſtioned.</p>
+            <p>The next thing that followeth in your Book is Mr. <hi>Willes</hi> his Letter, wherein he tells you, That <hi>the people were ſo rude
+<pb n="5" facs="tcp:119033:6"/>that it might have proved to my peril, if he had not pacified them,</hi> &amp;c. This ſhews what Spirit your Churches are filled with<g ref="char:EOLhyphen"/>al, that it is perillous for a man to ask a Queſtion among them, though never ſo ſoberly: for no man in his wits will believe that they were of Mr. <hi>Brookes</hi> his Church that were ſo much my Enemies, ſeeing (you ſay) I came to be a Patron to their cauſe.</p>
+            <p>Mr. <hi>Willes</hi> tells you further, That <hi>he laid down two Prin<g ref="char:EOLhyphen"/>ciples, as the grounds of my ſatisfaction:</hi>
+            </p>
+            <list>
+               <item>1. <hi>That Miniſters in an ordinary way were to be ordained by Miniſters.</hi>
+               </item>
+               <item>2. <hi>That in caſe of neceſſity, where there was no Miniſters to ordain, fit Perſons might become Miniſters without Or<g ref="char:EOLhyphen"/>dination,</hi> &amp;c.</item>
+            </list>
+            <p>But he doth not tell you, that I asked him by which of theſe ways he came into the Miniſtery; and he would not tell me, though I preſt him once and again: for though I grant theſe two ways of Admiſſion, yet I denied that ever he came in by either. Hereupon he told me, <hi>If there was but two ways of coming into a Houſe, and if he were in, I muſt conclude that he came in at one of them.</hi> But is not this a ſhameful begging the Queſtion? for though I granted theſe two were to be the ways of entrance, yet I denied him to be come in by either. Now what is it but to beg the Que<g ref="char:EOLhyphen"/>ſtion, when he ſhall take it for granted he is in by one of the aforeſaid ways, when I denied him to be in by either? as himſelf confeſſeth in his Letter to you, <hi>pag.</hi> 7. later end: for he ſaith, <hi>I oppoſed both;</hi> meaning both his entrance by a lawful Ordination, or by neceſſity. So then, this is your Champion's Argument, which is like <hi>Goliah</hi>'s Sword in his hand, the Propoſition being, That <hi>he is no Miniſter of Chriſt, either by a lawful Ordination, or by any pretended neceſſity:</hi> So that his great Argument (if I may put it in form) is:</p>
+            <pb n="6" facs="tcp:119033:7"/>
+            <q>
+               <l>If I am a Miniſter by one of theſe ways, then I am a Mi<g ref="char:EOLhyphen"/>niſter by one of them:</l>
+               <l>But I am a Miniſter by one of them;</l>
+               <l>
+                  <hi>Ergo,</hi> I am a Miniſter by one of them.</l>
+            </q>
+            <p>Nothing elſe can be made of this that he propounds. Now this had been a dilemma indeed, if I had granted him to be a true Miniſter, and had confeſſed that a man cannot be a true Miniſter but by one of the ways aforeſaid; then he had reaſoned like a man, if he had ſaid, Since I grant him to be a Miniſter, and withal grant, that none can enter but by the ways aforeſaid, then he muſt needs come in by one of them. But ſince I denied both, how wildly doth he reaſon?</p>
+            <p>Again, doth not Chriſt ſay, That <hi>he that comes not in at the door, is a thief and a robber?</hi> Now though I granted that there was no other lawful way of coming into the Office, yet a mans being in, doth not prove he came in any of theſe lawful ways; becauſe Chriſt ſuppoſeth they may get in by climing up another way.</p>
+            <p>The next thing Mr. <hi>Willes</hi> takes notice of in his Anſwer to your Letter, is that which he ſpake about the baptizing the Children of wicked Parents, which he ſaith <hi>are ſuch Children, whoſe Parents are not juridically ejected by excommu<g ref="char:EOLhyphen"/>nication,</hi> &amp;c.</p>
+            <p>His Reformation, as I have told, is ſo good, that none deſerves Excommunication; or elſe ſo bad, that he doth not execute that Ordinance upon them; or if he do, then all that he doth excommunicate are childleſs; or elſe he, contrarily to his Principles, baptizeth their Children; for he refuſeth to baptize none. But if his Argument be good, That <hi>the Children of wicked Parents are to be baptized, becauſe ſometimes God chuſeth them that are wicked Mens Children,</hi> Doth not this Argument plead as much for the Children of thoſe that are excommunicated? may not God chuſe the Children of ſuch as well the Children of others? and doth
+<pb n="7" facs="tcp:119033:7"/>not the Children of wicked excommunicated Parents, ſtand in need of an Obligation to Holineſs, as well as the Children of thoſe wicked Parents that are not excommunicated? and yet this man ſaith, That <hi>wicked mens Children, the worſe their Parents are, the more need their Children have of Baptiſm:</hi> and yet he denies it to the children of thoſe who are excommu<g ref="char:EOLhyphen"/>nicated. It ſeems then, you judge them you keep in the Church worſe then they you caſt out, or elſe this cannot be a true Maxime, <hi>viz. The worſe the Parents are, the more need the Children have of Baptiſm:</hi> for if they you caſt out are the worſt, then it follows, that their Children have the more need, by his Argument: if ſo, why doth he confine it to none but ſuch as are within the Church?</p>
+            <p>Whoever deſires further ſatisfaction in this point, touch<g ref="char:EOLhyphen"/>ing the baptizing of Infants. I ſhall refer them to my Book, entituled, <hi>Infants Baptiſm diſproved;</hi> by which you will ſee Mr. <hi>Willes</hi> his falſe Aſperſion wiped away, <hi>viz.</hi> That <hi>I ſought to colour my Opinion, which was againſt the Baptizing of any infants.</hi> For not onely my Book teſtifies my willingneſs to own my Opinion publickly, but I did tell Mr. <hi>Willes</hi> to his Face, that I would prove it unlawful to baptize any Infant; as many can witneſs.</p>
+            <p>Mr. <hi>Willes</hi> in his Letter further tells you, That <hi>he did decry the Fifth-Monarchy-men among other Sects that cry down their Miniſtery, as the ſmoak of the bottomleſs pit, ſmelling ſtrong of the Brimſtone of Hell:</hi> his proof for this is ſo faint, that he ſuſpects it himſelf; for he ſaith, <hi>he alluded in that ſpeech to</hi> Rev. 9.2, 3. <hi>by which text</hi> (he ſaith) <hi>ſuch Sects are meant, AS SOME DO INTERPRET.</hi> Is not this a brave ſtroke? do you reckon this one of his fatal blows he hath given the Adverſary, by telling them their Breath is as the ſmoak of the bottomleſs Pit? but it is but AS SOME DO INTERPRET.</p>
+            <pb n="8" facs="tcp:119033:8"/>
+            <q>
+               <l>Miraris Wilſum rixis implêſſe theatrum?</l>
+               <l>Ingenio Portae convenit ille ſuae.</l>
+               <l>No marvel Willes pulpit fills with railing and debate,</l>
+               <l>Since that we ſee it doth agree with th' genius of his<note n="*" place="margin">Billings-gate.</note> gate.</l>
+            </q>
+            <p>The laſt thing of moment that Mr. <hi>Willes</hi> mentions in his Letter, is, That <hi>he never affirmed upon any information that I was a Jeſuite;</hi> and that <hi>he did never inſtigate any to apprehend mt.</hi> For proof of this, I ſhall refer you to this Gentleman, Mr. <hi>Vancourt</hi> for a Witneſs, who is ready to make Oath of the truth thereof; by which Mr. <hi>Willes</hi> his untruths appear, together with his malice, though he cries out of the malice of others.</p>
+            <p>This Gentleman is a man known for Piety, and to bear a good eſteem in the National Miniſtery; and alſo he is of good Credit in the World: and therefore know, that it was more juſt for me to believe his Affirmation, then for you to take the Accuſed's bare Negation. Therefore I judge, my life would lie at ſtake, if Mr. <hi>Willes</hi> had as good proof to prove me a Jeſuite, as I have to prove that he did advertiſe this Gentleman to apprehend me for a Jeſuite.</p>
+            <p>This ſhall ſuffice to this Letter, and to your obſervation thereon in the later end of your Book.</p>
+            <p>I come now to your Epiſtle Dedicatory, wherein you do excuſe your flattering of Mr. <hi>Willes:</hi> but what do you elſe, when you tell him you preſume to be his Armor-Bearer? and in a Complement tell him, That <hi>you were a ſpectator of thoſe furious ſtrokes, whereby he ſhattered the choiſeſt Ranks of his Enemies, and dealt about ſuch fatal blows, that their choiſeſt Cham<g ref="char:EOLhyphen"/>pions fell before him,</hi> &amp;c.</p>
+            <p>Why did you not tell your Reader, if you do not flatter, where thoſe blows were given, and thoſe battels fought? and when it was that this Victory was obtained, that you ſo much glory in? and what the Names of thoſe choice
+<pb n="9" facs="tcp:119033:8"/>Champions were, that fell by his fatal blows? Methinks, if you were a Spectator (as you ſay you were) of theſe great Conflicts, you can reſolve theſe Queſtions, that ſo you may comfort your grieving Reader, who yet doth believe your firſt words that you told him, <hi>viz.</hi> That your Army was routed, which you called <hi>the hoſt of</hi> Iſrael.</p>
+            <p>Your preſuming to bear Mr. <hi>Willes</hi> his Armor, ſhews how little you have of the Armor of God in this Spiritual Con<g ref="char:EOLhyphen"/>flict; and your fighting under his Shield, ſhews how little you have of the Shield of Faith: but do you take Mr. <hi>Willes</hi> his Armor, and fight under his Shield, becauſe you ſo much deſire it; and I will take the Armor of God, and the Shield of Faith, to fight againſt you, and ſhall leave the ſucceſs of the Victory to God: and though you boaſt upon the put<g ref="char:EOLhyphen"/>ting on of your Armor, as though you were ſo dreadful, that your Enemy would flee when he heard of you, (for by con<g ref="char:EOLhyphen"/>cealing your Name, you thought I ſhould never ſee you) yet know, that it had been better and more modeſt for you to have gloried when you had put your Armor off. But I am not fled yet; and if I do flee, I may be eaſier found upon the flight, becauſe my Name is known, then you can be who conceal your Name and Place of abode, for no other reaſon that I know of, but for fear leſt you ſhould be apprehended in your flight.</p>
+            <p>You now face about, and direct your ſpeech to me; and tell me, That <hi>you hope your raſhneſs is not ſo great, as</hi> Eliabs <hi>was to</hi> David, 1 <hi>Sam.</hi> 17.18, 28. <hi>if you ſay, that it is my buſineſs to carry Loaves and Cheeſe to the Camp, out of the pride and naughtineſs of my Heart, that I above all others ſhould ſingle out a Champion to encounter with,</hi> &amp;c. If your raſhneſs be not ſo great as <hi>Eliabs</hi> to <hi>David,</hi> it ſeems it is raſhneſs, though not ſo great; as not onely your words do intimate, but the ſtory you allude to, 1 <hi>Sam.</hi> 17.18, 28. by which your Reader may ſee you compare your ſelf to <hi>Eliab,</hi> and me to <hi>David,</hi> who carried Loaves and Cheeſe to the Army; and the Army that you called <hi>the Hoſt of</hi> Iſrael, you now com<g ref="char:EOLhyphen"/>pare
+<pb n="10" facs="tcp:119033:9"/>to the uncircumciſed Philiſtines; and the Army that I carry relief to, to the <hi>Iſrael</hi> of God, for ſuch was the Ar<g ref="char:EOLhyphen"/>my that <hi>David</hi> carried Loaves and Cheeſe to; and Mr. <hi>Willes</hi> the Champion that you ſay I have ſingled out to encounter, you very craftily compare him to <hi>Goliah:</hi> and by this you juſtifie me in my Encounter, and condemn your ſelf of raſh<g ref="char:EOLhyphen"/>neſs in judging me, for that I carried ſome ſmall contribution to the Army of the Lord, as <hi>David</hi> did to <hi>Iſrael.</hi> By this the Reader may ſee, that you had ſo great a ſtomach to be nib<g ref="char:EOLhyphen"/>ling at the Bread and Cheeſe, that you had wholly forgot your cauſe.</p>
+            <p>You proceed and tell me, That <hi>either I uncivilly took Mr.</hi> Brookes <hi>his work out of his hand, or elſe that I highly valued my ſelf as one that could manage it better.</hi>
+            </p>
+            <p>Firſt, was not all the audience concerned as well as Mr. <hi>Brookes,</hi> in what Mr. <hi>Willes</hi> delivered? ſince he told them how dangerous it was to hear men that were not ordained.</p>
+            <p>Secondly, did not Mr. <hi>Willes</hi> confeſs, that he invited all that had Objections, to give them in either in word or in writing?</p>
+            <p>Thirdly, doth not Mr. <hi>Brookes</hi> think ſo of men? if he doth not, why ſhould you? ſeeing, if I have dealt uncivilly, he is the perſon offended.</p>
+            <p>Fourthly, is not the work ſtill in Mr. <hi>Brookes</hi> his hands, for all that I have ſaid or done?</p>
+            <p>Fifthly, is it not greater incivility for you to take upon you to anſwer a particular paper, which was particulary di<g ref="char:EOLhyphen"/>rected to Mr. <hi>Willes?</hi> This ſurely ſavours more of arrogancy then any thing that I have done.</p>
+            <p>You go on, and ask five Queſtions, and anſwer them your ſelf; by which it appears, you can anſwer Queſtions of your own making, eaſier then you can thoſe that are made by ano<g ref="char:EOLhyphen"/>ther. I ſhall take notice of none but the firſt and laſt, ſee<g ref="char:EOLhyphen"/>ing I have already upon ſome former occaſion, taken notice of all the reſt.</p>
+            <p>In the firſt Queſtion you ſuppoſe me asking, <hi>who you are?</hi>
+               <pb n="11" facs="tcp:119033:9"/>Your anſwer is, That <hi>truely you are</hi> Homo nullius Nominis: which being Engliſhed, is, That <hi>you are a Man of no Name.</hi>
+            </p>
+            <p>Truely, Sir, I do not blame you for putting no Name to your Book, of you ſay true,<note place="margin">I had otherwiſe interpreted this phraſe, had he put a name to his book</note> that you have no Name. But how was this over<g ref="char:EOLhyphen"/>ſight committed, that your God-Fathers and God-Mothers did not give you one in your Baptiſm? or are you not yet baptized? if you are not, was it becauſe your Father was excommunicated, or that he was no Chriſtian; and therefore you had no right? if ſo, you have done enough now to give Mr. <hi>Willes</hi> a Teſtimony of your Chriſtianity: therefore I doubt not but he will baptize you; and that you will in your next be <hi>homo nominis.</hi>
+            </p>
+            <p>Your laſt Queſtion is, <hi>But why do you anſwer me in counter-Queries?</hi> Having made this Queſtion, you thus anſwer it your ſelf, and tell me, That <hi>you anſwer by counter-Queries, that I may ſee how eaſie it is for a fool to ask more queſtions then a wiſe man can anſwer.</hi>
+            </p>
+            <p>Truely Sir, I ſhall willingly become a Fool for Chriſt's ſake, that I may be wiſe; but it ſeems the fooliſh things of God hath confounded the wiſe: for you ſay, <hi>the fool hath asked more Queſtions then the wiſe man can anſwer.</hi> Surely, this indeed was the reaſon why you did not anſwer poſi<g ref="char:EOLhyphen"/>tively.</p>
+            <p>I come to your Queries. And firſt, you ſtate the Queſti<g ref="char:EOLhyphen"/>on as I printed it, it being that upon which many of my Queſtions are grounded. Herein you tell me, I have dealt ingeniouſly with Mr. <hi>Willes,</hi> in the right ſtating of the diffe<g ref="char:EOLhyphen"/>rence; and then you propound your firſt counter-Query, wherein you ask me,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>1</label> 
+               <hi>Whether that is not a ſin which is practiſed as a Go<g ref="char:EOLhyphen"/>ſpel-duty, and hath no Law or Foundation in the Goſpel:</hi> who hath required theſe things at your hands?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I anſwer, That is a ſin which is ſo practiced with<g ref="char:EOLhyphen"/>out a Precept; and therefore Mr. <hi>Willes,</hi> and you both, do erre in laying men under ſin for Preaching without Ordina<g ref="char:EOLhyphen"/>tion,
+<pb n="12" facs="tcp:119033:10"/>and in baptizing Infants, and in giving the Lord's Supper to prophane and ſcandalous perſons: <hi>who hath re<g ref="char:EOLhyphen"/>quired theſe</hi> (and lay-Elders, with ſuch-like Innovations) <hi>at your hands?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>2</label> Your ſecond Query you make upon mine, is, <hi>Muſt not then unordained mens preaching be ſinful,</hi> &amp;c?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I anſwer, No: becauſe they have all theſe Text's here mentioned,<note place="margin">
+                  <hi>Mal.</hi> 3.16 <hi>Heb.</hi> 10.25. <hi>Heb.</hi> 5.12. 1 <hi>Cor.</hi> 14.13, 14. 1 <hi>Pet.</hi> 4.10.</note> to juſtifie ſuch a Practice; but you have none to juſtifie thoſe things that I object againſt you in my Anſwer to your firſt: but to theſe Texts I ſhall ſay more in due place, when I come to weigh your Queries concerning them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>3</label> In your next you ask, <hi>If</hi> Titus 1.5. <hi>be not an A<g ref="char:EOLhyphen"/>poſtolical inſtitution for ordaining Elders; and whether publick teaching be not an act of that Office, as well as baptiſm, being both in the ſame commiſſion,</hi> Mat. 28.19. &amp;c. <hi>and whether unordain<g ref="char:EOLhyphen"/>ed men are not uſurpers of that Office</hi> &amp;c.</p>
+            <p>This is the ſum of your Queſtion:</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> To which I anſwer, firſt, That this Text, though it did prove ordaining Elders to be an Inſtitution; yet it doth not prove, that none but ſuch ought to preach: for would this be a good Argument, <hi>Paul</hi> left <hi>Titus</hi> in <hi>Creete</hi> to or<g ref="char:EOLhyphen"/>dain Elders in every City; therefore none muſt preach but Elders? May not a man as well reaſon, That <hi>Titus</hi> was com<g ref="char:EOLhyphen"/>manded to ordain Elders in every City: <hi>Ergo,</hi> there muſt be none ordained in Country-Villages?</p>
+            <p>Again, though Preaching be an act of Office as well as Baptizing, doth it therefore follow that none may Preach out of Office? May not a man as well ſay, That viſiting the ſick, and praying, and reproving them that ſin, and to exhort in private, are acts of the Miniſters Office as well as Baptizing? doth it therefore follow, that it is a ſin to do theſe acts out of Office? So that it is one thing to do theſe acts as Chriſti<g ref="char:EOLhyphen"/>an, and another thing to invade an Office, that I may do them as an Officer: though the later of theſe be had, the former is good. Do you not ſee your raſhneſs now?</p>
+            <pb n="13" facs="tcp:119033:10"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>4</label> You ask, <hi>If there be not a third thing that I forget,</hi> viz. That <hi>Approbationers do not preach as gifted brethren, nor as lawfully conſtituted Officers, but as having conſent of Mini<g ref="char:EOLhyphen"/>ſters.</hi> This you would make out by the ſimilitude of my Boys ſelling Cheeſe. You ſay, <hi>If he be not my Apprentice, but is with me upon trial, then he doth not ſell as he is fit; for then (you ſay) every one may ſell my Cheeſe that is ſo fitted: neither can he ſell as an Apprentice, becauſe he is not bound,</hi> &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Now pray conſider, this ſimilitude agrees in no<g ref="char:EOLhyphen"/>thing, unleſs you will ſay, That as the Cheeſe my Boy vends, while he is not my Apprentice, is my Cheeſe; and therefore he vends it by my leave, and muſt give me account of it: ſo in like manner the Approbationers you ſpeak of, vend thoſe Miniſters Sermons that give them leave to preach, and not their own. If the caſe be thus, indeed, I think they ought to have their leave before they vend their Sermons. But if my Boy hath Cheeſe ſent him out of the Country, and given him by his Father, then he may ſell it, not as my Ap<g ref="char:EOLhyphen"/>prentice; for he is not bound: nor as my Approbationer; for it is none of my Cheeſe: therefore <hi>datur tertiam,</hi> he ſells it as he hath right. So may any Boy ſell Cheeſe: and any Man Preach, if his Heavenly Father hath beſtowed a Gift up<g ref="char:EOLhyphen"/>on him.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>5</label> Your fifth Query is, for the firſt part of it, con<g ref="char:EOLhyphen"/>tained in the later parr of your third Query; therefore let that Anſwer ſerve that is there given. The other part of this Query is contained in the firſt and ſecond Queries, to which Anſwer is already given: onely you ask me, <hi>Whether I am in office, and how I came to it, and by whom ordained,</hi> &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I anſwer, That when I am in Office, I ſhall tell you how I came in: in the mean time, let this ſuffice you, that I am no Officer: and when I am, I ſhall ſhew you my Authority from a divine inſtitution.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>6</label> The former part of this, is the ſame with the later part of the third Queſtion, to which Anſwer is given. The next thing then that you demand in this ſixth Query, is, <hi>How can he preach by vertue of the Miniſters conſent, in re<g ref="char:EOLhyphen"/>lation
+<pb n="14" facs="tcp:119033:11"/>to an Office, that owns not their power to ordain him?</hi> &amp;c. <hi>And how can I be ſatisfied with the power of the Church to or<g ref="char:EOLhyphen"/>dain?</hi> &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I anſwer to the laſt firſt, That this is the ſame with the later part of the fifth Query. However, know, that you might have ſaved this labour, till you had known that I had been for a popular Ordination. And to the former part I anſwer, That the Miniſters at <hi>VVhite-Hall</hi> do dayly approve of ſuch mens preaching whom they know to be able and fit; though they do ſcruple to be ordained, and do refuſe to be ordained, yet they do approve of them; and not ſuſpend them upon that ſcore, if they judge them godly and Ortho<g ref="char:EOLhyphen"/>dox: and they ſeldom ask them that queſtion.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>7</label> You go on, and ask me to ſhew <hi>ſome law that a man may exerciſe part of that Office he is not inveſted in,</hi> &amp;c. be<g ref="char:EOLhyphen"/>cauſe I query whether a man ſhould ſin to preach out of Of<g ref="char:EOLhyphen"/>fice, becauſe he wants ſome, or hath not all thoſe required qualifications, <hi>viz.</hi> it may be he wants faithful Children, or it may be he may be ſoon angry, <hi>&amp;c.</hi> You ſeem to counter<g ref="char:EOLhyphen"/>balance this query of mine, by ſaying, <hi>There is the ſame weight in your allegation, as, why may not a man preach that is a drunkard, or hath many wives,</hi> &amp;c. <hi>and why doth his Highneſs turn ſuch men out?</hi> &amp;c.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> To this I anſwer, letting go many of your imper<g ref="char:EOLhyphen"/>tinencies of my box-making, and Souldiering, and my being a Cheeſe-monger, as not being at all to the queſtion, and do ſay, That though his Highneſs do turn out Miniſters for drunkenneſs, and plurality of Wives, and other ſcandalous offences; yet he doth not turn out men from preaching, be<g ref="char:EOLhyphen"/>cauſe they have not faithful Children, not becauſe they have not ſo good a command of their paſſion as they ought, but it may be are ſoon angry: neither do the Miniſters that are Tryers at <hi>VVhite-Hall</hi> keep men out that are gifted, nor turn men out that are gifted, though they have not the later qua<g ref="char:EOLhyphen"/>lifications, <hi>viz.</hi> faithful Children, or ſo good a command of their paſſion as they ought: yet they do keep out, and turn out them that are guilty of drunkenneſs, and plurality
+<pb n="15" facs="tcp:119033:11"/>of wives; though their Gifts be never ſo great. So that by the Judgement of his Highneſs to whom you refer me, and the Miniſters at <hi>White-Hall,</hi> there is much more reaſon why a man able and godly, may preach that is not ordained, and ſhall refuſe to be ordained, becauſe he thinks he ought firſt to obtain ſome further maſtery of his paſſion, or ought to wait till his Children be reformed, <hi>&amp;c.</hi> then there is why a ſcanda<g ref="char:EOLhyphen"/>lous man ſhould preach unordained, though he have never ſo great parts; nay, I ſhall preſume that his Highneſs and thoſe Miniſters at <hi>White-Hall,</hi> had much rather hear an able unor<g ref="char:EOLhyphen"/>dained Man preach, then a prophane Man that is ordained, though otherwiſe of great abilities: and yet you tell your Reader, That there is as much weight in yours, <hi>Why may not a man preach that is prophane?</hi> as there is in my Query, <hi>viz.,</hi> Why may not a man that is gifted to preach the Goſpel to Edification and Comfort, preach out of Office; becauſe he findes himſelf ſhort of that power to rule the Church of God which that Office requires, or it may be wants faithful Children, or it may be he is ſoon angry, or the like; and therefore is not free to take that Office upon him. I there<g ref="char:EOLhyphen"/>fore ask, why this good man may not exerciſe theſe Gifts out of Office: and you ſay, that there is the ſame foundation for your Why may not a prophane perſon preach? <hi>&amp;c.</hi>
+            </p>
+            <p>This is the ſum of my Query, and the ſubſtance of your Counter-query upon it, as the Reader may ſee by comparing Book to Book.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>8</label> You further query, <hi>If he that preacheth ſins in uſurping that act of the miniſterial Office, then do not they ſin that ſhall wittingly and willingly ſubmit to this uſurpation in hearing? if he have no lawful call to preach,</hi> Rom. 10.15. <hi>can they have a lawful call to hear? is not the Receiver as bad as the Thief?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> I anſwer, That you are forc'd to beg one Queſtion, to make a ground for another: for I never granted that it was a ſin for unordained Men to preach; and as yet you have not proved it, though you have begged this Queſtion over and over. And for your ſaying, <hi>The Receiver is as bad
+<pb n="16" facs="tcp:119033:12"/>as the Thief;</hi> and that becauſe it is as bad in me to hear one that is not ordained, as it is in ſuch a one that is not or<g ref="char:EOLhyphen"/>dained to preach. The truth is, if one of theſe be as bad as you make it, the other muſt needs be as bad alſo.</p>
+            <p>Now pray conſider, That to relieve the poor is an act of the Deacons Office, doth it therefore follow, that none but Officers may relieve the poor? ſhould I ſin to miniſter to the poor out of Office? and is he that receives an Alms as bad as a Thief, if he knows he that gives it be out of Of<g ref="char:EOLhyphen"/>fice? and yet this is your arguing.</p>
+            <p>But it may be you will ſay, That <hi>for a man out of Office to diſtribute the Churches ſtock is ſinful, if they do not licenſe him ſo to do; and then it would be a ſin to receive from ſuch a man the ſtock of the Church.</hi>
+            </p>
+            <p>I anſwer, That it is moſt true: but therefore may he not give of his own, becauſe he cannot as an Officer give of the Churches? So becauſe I may not preach from another Man's ſtock, may I not preach from my own, and adminiſter ac<g ref="char:EOLhyphen"/>cording as I have received from God? though I may not adminiſter of that which I have not, according to that 1 <hi>Pet.</hi> 4.10. <hi>Let every man as he hath RECEIVED the gift, miniſter the ſame one to another, as good ſtewards of the manifold grace of God.</hi> And he ſubjoyneth in the next Verſe, <hi>If any man ſpeak, let him ſpeak as the oracles of God,</hi> Ver. 11. So that by comparing theſe <hi>Verſes</hi> together, you will finde, that a man may as lawfully preach, if he have received a Gift to en<g ref="char:EOLhyphen"/>able him, as he may diſtribute this Worlds Goods: but he ought not to do the one or the other, unleſs he have receiv<g ref="char:EOLhyphen"/>ed a Gift from God to enable him thereto.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>9</label> You proceed: and whereas I ask whether <hi>A<g ref="char:EOLhyphen"/>pollos</hi> did not preach the Goſpel, as is recorded <hi>Act.</hi> 18.24, 25, 26, 27, 28, <hi>&amp;c.</hi> you reply by asking me, <hi>Whether I ought not to have anſwered Doctor</hi> Seamore <hi>and others.</hi>
+            </p>
+            <p>To this I anſwer That if I had received ſatisfaction from them, I ſhould have made no further queſtion. But ought not you by the ſame rule, to have anſwered all Books extant againſt Ordination by Presbyters, before you ask me any
+<pb n="17" facs="tcp:119033:12"/>more queſtions in the behalf of it? And if theſe men you ſpeak of have writ ſo ſatisfactorily, why do you trouble your ſelf any further?</p>
+            <p>You proceed, and tell me, <hi>page</hi> 22. That <hi>Apollos taught where</hi> (you ſay) <hi>we read but of two Chriſtians,</hi> Aquila <hi>and</hi> Pri<g ref="char:EOLhyphen"/>ſcilla, <hi>and thoſe</hi> Paul <hi>brought with him,</hi> &amp;c.</p>
+            <p>I anſwer, That our Queſtion is not how few or how ma<g ref="char:EOLhyphen"/>ny Chriſtians were <hi>Apollos</hi> Auditors; but, Whether he did not preach publickly and conſtantly without Ordination. However, you grant that there was <hi>Aquila</hi> and <hi>Priſcilla,</hi> and thoſe Chriſtians that <hi>Paul</hi> brought with him which he preached to, which were enough to make a Chriſtian Con<g ref="char:EOLhyphen"/>gregation, as vain as you ſeem to make the conſequence. Therefore if he did preach to the people aforeſaid, (<hi>viz. A<g ref="char:EOLhyphen"/>quila</hi> and <hi>Priſcilla,</hi> and thoſe Chriſtians that <hi>Paul</hi> brought with him) publickly and conſtantly, then he did preach pub<g ref="char:EOLhyphen"/>lickly and conſtantly to a Chriſtian-Congregation: but the former is true by your own confeſſion; <hi>Ergo,</hi> the later fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <p>But you proceed, and ask me, <hi>If a particular example of a Church not conſtituted, be a rule for ordinary practice in a Church that is,</hi> &amp;c. And further you ask, <hi>If</hi> Apollos <hi>was not in Office, and therefore called a Miniſter,</hi> 1 Cor. 3.5. <hi>and how do I prove he was not?</hi>
+            </p>
+            <p>I anſwer, Firſt, where do you read of a Chriſtian-Church not conſtituted?</p>
+            <p>Secondly, Do you not ſay, That <hi>Apollos</hi> was an Officer? what then did hinder them from being a conſtituted Church? The Scriptures ſay, <hi>Chriſts Church is his Body:</hi> and I never read of a Body conſtituted, and another unconſtituted. And for your ſaying, <hi>Apollos was in Office,</hi> 1 Cor. 3.5. doth this prove he was then in Office? <hi>Act</hi> 18.</p>
+            <p>You go on, and ask me all theſe negative Queſtions, <hi>viz. How I prove he was not in Office? and how I prove he was no Prieſt, and that</hi> John <hi>did not anthorize him? and ought I not to prove that he was not in Office thus? and ought I not to prove there
+<pb n="18" facs="tcp:119033:13"/>was no neceſſity? and how do I prove he was not called, or in Of<g ref="char:EOLhyphen"/>fice?</hi> &amp;c.</p>
+            <p>To which I anſwer, That you are an excellent Armour-Bearer: Is this your Armour of proof? when a man demands of you how you prove that ſuch a thing was, you anſwer by asking your Reſpondent how he proves it was not. True<g ref="char:EOLhyphen"/>ly, you have more need go to School then write Books. But let's hear what you ſay for the Affirmative ſince you ſay, <hi>page</hi> 23. That <hi>it is certain he was in Office.</hi>
+            </p>
+            <p>Your firſt Reaſon is, <hi>He watered the Churches that</hi> Paul <hi>had planted,</hi> 1 Cor. 3.6. 1 Cor. 16.12.</p>
+            <p>Let's try this Argument, and put it into a form, and then it will be thus: <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>Apollos</hi> did the work of an Evangeliſt, 1 <hi>Cor.</hi> 3.6.</p>
+            <p>
+               <hi>Ergo,</hi> it is certain he was in Office at the time <hi>Aquila</hi> and <hi>Priſcilla</hi> taught him, <hi>Act.</hi> 18.</p>
+            <p>May not a man as well reaſon thus:</p>
+            <p>Mr. <hi>Willes</hi> preaches at <hi>Botolphs Billings-gate</hi> as an Officer, (if you will believe it:)</p>
+            <p>
+               <hi>Ergo,</hi> it is certain he was an Officer when he was inſtru<g ref="char:EOLhyphen"/>cted into Religion.</p>
+            <p>You go on, and ask me, <hi>If</hi> Apollo<hi>'s worth and name was not the head of a Faction,</hi> 1 Cor. 1.12.</p>
+            <p>This is your ſecond Argument to prove that certainly he was in Office.</p>
+            <p>Is this a good Argument, <hi>Apollos</hi> was the Head of a Faction for his worth and name: <hi>Ergo,</hi> he was an Officer in the Church? will not this prove Mr. <hi>Brookes</hi> to be an Officer when future times ſhall read the Hiſtory of his Life; ſeeing that he preaches Chriſt, and is eſteemed for his worth and name, and (as your ſelves ſay) he is the Head of a Faction? how dare you deny Mr. <hi>Brookes</hi> to be an Officer, if this be good Logick?</p>
+            <p>Your third Reaſon is, <hi>He is called</hi> (you ſay) <hi>in expreſs terms</hi> a Miniſter, <hi>in the ſenſe</hi> that Paul <hi>was,</hi> 1 Cor. 3.5. <hi>He was an Officer</hi> (you ſay) <hi>then ſure.</hi>
+            </p>
+            <p>I have anſwered this already, by ſhewing, that though
+<pb n="19" facs="tcp:119033:13"/>he might be an Officer then, yet he was not in Office, <hi>Acts</hi> 18. and you muſt prove, and not beg.</p>
+            <p>You go on, and bid me prove <hi>that</hi> Apollos <hi>was ordained after he preached</hi> Act. 18.</p>
+            <p>What if I cannot? doth this prove he was ordained at that time? do not you prove it for me, when you ſuppoſe in the later end of <hi>page</hi> 20. That he might preach by neceſſity; and that there was no Organical conſtituted Church at this time, and Officers to preach in it? and do you not ask me, Whether the Apoſtolical Inſtitution was practiced at that time? or, Whether <hi>Apollos</hi> knew of ſuch a thing as Or<g ref="char:EOLhyphen"/>dination to be had from the Apoſtles? And do you not further ſay, Here was evident neceſſity?</p>
+            <p>Now for all theſe queſtions that your ſelf make, to mani<g ref="char:EOLhyphen"/>feſt he was not ordained as <hi>Paul</hi> was, yet you do preſently conclude, that he was ordained a Miniſter in the ſame ſence as <hi>Paul</hi> was, at the time that he preached in the Synagogue, <hi>Act.</hi> 18. and bid me <hi>ſhew if he was not then ordained, and where was he ordained afterwards?</hi> when you ſay your ſelf, There was no conſtituted Church to ordain; and yet conclude he was ordained at this time. Are not theſe the Queſtions you told the Reader would puzzle me? I think it will puz<g ref="char:EOLhyphen"/>zle you to reconcile them, they are ſo contradictions.</p>
+            <p>To your three laſt Propoſals touching <hi>Apollos,</hi> where you urge <hi>the preaching of</hi> Apollos, <hi>rather then</hi> Aquila <hi>and the Bre<g ref="char:EOLhyphen"/>threns receiving him,</hi> Act. 18.27. <hi>and his helping them through grace that believed,</hi> &amp;c.</p>
+            <p>Theſe, you ſay, prove that he was in Office: but it is but your ſay ſo. For doth not the Apoſtle ſay, <hi>Rom.</hi> 16. That <hi>Aquila and Priſcilla were his helpers in Chriſt?</hi> May I not as well conclude, that both theſe were Officers, becauſe they were helpers in Chriſt, as you may conclude <hi>Apollos</hi> was an Officer, becauſe he helped them that did believe? Is not this wild reaſoning? and doth the Brethrens receiving <hi>Apollos,</hi> prove therefore that he was an Officer? then if you ſhould have occaſion to go to <hi>Geneva,</hi> and ſhould be received upon
+<pb n="20" facs="tcp:119033:14"/>
+               <hi>Willes</hi> his Letter of Recommendation; it ſeems this would prove you to be an Officer: you ſay, it was ſuch a receiving as is ſpoken of, <hi>Mat.</hi> 10.40. where it is ſaid, <hi>He that receiveth the Diſciples of Chriſt, receiveth Chriſt.</hi> I anſwer, That it is alſo ſaid, <hi>Luke</hi> 9.48. That <hi>he that receiveth a little childe in Chriſts name receiveth Chriſt.</hi> May I not then as well conclude from he ſame Scriptures, That every righteous Man, &amp; every Childe that ſhall be received in Chriſt's Name, is an Officer in the Church, as you may conclude <hi>Apollos</hi> was received, according to <hi>Mat.</hi> 10.40. <hi>Ergo, Apollos</hi> was an Officer? are theſe your puzzelling Propoſals?</p>
+            <p>
+               <hi>But</hi> (ſay you) <hi>why did not</hi> Aquila <hi>preach rather then</hi> A<g ref="char:EOLhyphen"/>pollos?</p>
+            <p>I demand, whether the mentioning the one doth in rea<g ref="char:EOLhyphen"/>ſon exclude the other, any more then the Scriptures ſaying, That <hi>he,</hi> viz. <hi>Apollos, helped them that believed,</hi> doth exclude <hi>Aquila</hi> from this ſervice?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>10</label> You go on, and ask me, <hi>Whether thoſe texts propoſed in my tenth Query,</hi> Mat. 3.6. Heb. 10.25 <hi>prove an authoritative act of preaching?</hi>
+            </p>
+            <p>I anſwer, That this is a needleſs Queſtion, ſeeing you ſay there is no preaching without Authority: and you confeſs, That according to theſe Texts, Chriſtians ought to meet to<g ref="char:EOLhyphen"/>gether and exhort one another. Then I demand, whether Chriſtians met together do not make a Church, if they meet to worſhip God? if ſo, then you have given away your cauſe, by telling of us, that they may exhort one another when they are thus met, which is an act of the Miniſters Office: ſo that then it ſeems unordained Chriſtians may do acts that are acts of the Miniſters Office, by your own confeſſion; ſo that it be done according to rule, which I think ought to be ob<g ref="char:EOLhyphen"/>ſerved in that and all Chriſtian Duties.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>11</label> You proceed, and ſeem to reſolve my eleventh Query; which ſhews, that if it be ſinful for a man to hear one that is not ordained, then did Mr. <hi>Willes</hi> ſin in hearing Mr. <hi>Brookes,</hi> which he ſaith <hi>is not ordained.</hi>
+            </p>
+            <pb n="21" facs="tcp:119033:14"/>
+            <p>And this you do by asking me, <hi>Whether that Mr.</hi> Willes <hi>may not be called to correct him that is not called to preach?</hi> &amp;c.</p>
+            <p>Here you beg two things: the one is, That Mr. <hi>Brook<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> is not called to preach; and the other is, That Mr. <hi>Willes</hi> is called to correct: both which are the main things in que<g ref="char:EOLhyphen"/>ſtion. But where is your Text that gives M. <hi>Willes</hi> a tolerati<g ref="char:EOLhyphen"/>on to hear M. <hi>Brooks,</hi> if to hear him be ſinful? And for your ſi<g ref="char:EOLhyphen"/>militudes which you bring in ſtead of a proof, do not they in the firſt place take that for granted which you are to prove, <hi>viz.</hi> That M. <hi>Willes</hi> is a Captain, &amp; a Shepherd, and a Phyſitian? <hi>&amp;c</hi>
+               <note n="*" place="margin">From which you in<g ref="char:EOLhyphen"/>fer, that the Capt the Shepherd, &amp; the Phy<g ref="char:EOLhyphen"/>ſician may do that which is not lawful for every body, Ergo Mr. <hi>Willes</hi> may.</note>. But ſuppoſe we pity the poor, and give you that you beg for, <hi>viz.</hi> that he is a Captain; I demand whe<g ref="char:EOLhyphen"/>ther a Captain, though he may view the E<g ref="char:EOLhyphen"/>nemy, whether he may treat with the Ene<g ref="char:EOLhyphen"/>my; and whether he is not an Offender, if he ſhall run into the Enemies quarters with<g ref="char:EOLhyphen"/>out leave from his General? and by the Generals leave a Souldier may go as well as he: and if he ſhall ride from his Troop or Regiment to view the Enemie, is he not a Tranſ<g ref="char:EOLhyphen"/>greſſor?</p>
+            <p>And for your ſaying, <hi>The Shepherd may withſtand the Wolf, though the Sheep ought to run.</hi>
+            </p>
+            <p>Do you not by this make all the Martyrs in Queen <hi>Maries</hi> dayes to be guilty of their own Blood, in that they choſe ra<g ref="char:EOLhyphen"/>ther to burn then run? were not moſt of thoſe that oppoſed the Wolf at that time, Sheep and not Shepherds? for, to their ſhame be it ſpoken, the poor Sheep ſtood by it when moſt of the Shepherds entred a League with the Wolf?</p>
+            <p>And for your ſimilitude of a Phyſician, do you not ſay, That <hi>a Phyſician may viſit one ſick of the plague, but another man may not?</hi> &amp;c.</p>
+            <p>Doth Chriſt charge it as a ſin upon the Phyſicians onely, that he was ſick, and they did not viſit him? or doth he not charge it upon the people in general?</p>
+            <p>Sir, do you think, that this will excuſe you at the day of
+<pb n="22" facs="tcp:119033:15"/>Chriſt, that you did not viſit his members, becauſe they were ſick of the Plague? By this Rule, it would be a ſin in Mr. <hi>Willes,</hi> to viſit any of his Pariſh that ſhould be ſick of the Plague, becauſe he is no Phyſician. For ought that I know, this is the reaſon of the device of Lay-Elders, that ſo when a<g ref="char:EOLhyphen"/>ny is ſick, they may ſend them, and ſtay at home themſelves.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>12</label> In your twelfth Query that you make upon my Queſtion, grounded upon <hi>Heb</hi> 5.12. you demand, <hi>Whether that Text hath the leaſt ground for gifted Brethrens teaching?</hi> And all you ſay firſt and laſt amounts but to this, <hi>Whether it is underſtood of actual teaching?</hi> &amp;c.</p>
+            <p>To which I anſwer, that theſe Queries grounded upon my twelfth Queſtion, do come ſo far ſhort of an Anſwer, that it doth not counter-query the things that I have pro<g ref="char:EOLhyphen"/>poſed: for is actual teaching (to uſe your unknown phraſe) any part of our Queſtion? ſure there is not ſuch a word from one end to the other. Methinks you ſpeak now like one that is PUZZELED.</p>
+            <p>But yet for all this, you ſay, <hi>It may be underſtood of Maſters that ought to teach their Families.</hi>
+            </p>
+            <p>I pray, ought not Maſters teaching their Families to be a<g ref="char:EOLhyphen"/>ctual teaching? and yet you bid me prove it to be of actual teaching.</p>
+            <p>But you ſay, <hi>They were not Stewards to provide.</hi>
+            </p>
+            <p>Pray, doth not a Maſter in a Family teach as a Steward? and is not every good Chriſtian to give an account of his Stewardſhip? and doth not the Apoſtle <hi>Peter</hi> ſay, 1 <hi>Pet.</hi> 4.10. of every good Chriſtian, That <hi>he is to miniſter as a good Steward of the manifold grace of God?</hi> and yet you are ſo ig<g ref="char:EOLhyphen"/>norant as to tell us, That <hi>the Apoſtle exhorts to teach, but not as Stewards.</hi>
+            </p>
+            <p>And for your ſaying, That <hi>this Text is ſpoken in general terms,</hi> viz. <hi>ye ought to teach, and that therefore it may reſpect womens teaching in the Church as well as men:</hi>
+            </p>
+            <p>I anſwer, ſo it might, if the Scripture had not ſaid, The Wo<g ref="char:EOLhyphen"/>men muſt keep ſilence in the Churches, 1 <hi>Cor.</hi> 14.34. And this he calls a part of their ſubjection to the Law, which the
+<pb n="23" facs="tcp:119033:15"/>Hebrew Women were alwayes inſtructed in; and there<g ref="char:EOLhyphen"/>fore there was no need of a particular exception in this ex<g ref="char:EOLhyphen"/>hortation.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>13</label> You query from thoſe Queries that I ground upon 1 <hi>Cor.</hi> 14.1, 24, 31. <hi>Why I did not conſult the</hi> London-<hi>Miniſters,</hi> &amp;c. ſaying, That <hi>it is vain-glory in me to make the world believe that theſe men have done nothing worthy my re<g ref="char:EOLhyphen"/>gard.</hi> &amp;c.</p>
+            <p>I anſwer as formerly, If they have done enough, what needs this waſte that you make by writing more? could you not in a few lines have referred your Reader to them for the ſolutions of my Queſtions, without any more ado?</p>
+            <p>But further, you ask,<hi>If the gifts that theſe men had,</hi> 1 Cor. 14. <hi>were not extraordinary?</hi>
+            </p>
+            <p>I anſwer, What is this to the purpoſe? for it is no part of my Queſtion, to know whether they preached by Gifts ex<g ref="char:EOLhyphen"/>traordinary or ordinary; but, whether they preached as gifted or by Office, let the Gifts be what they will: for ſure<g ref="char:EOLhyphen"/>ly, the greatneſs of their Gifts could not tolerate them to Preach contrary to a Divine Inſtitution, ſeeing there was no neceſſity, it being a conſtituted Church (as you call it) that had Officers in it.</p>
+            <p>You go on, and ſay, That <hi>they were Prophets, which</hi> (you ſay) <hi>is an Office</hi> pro tempore, <hi>improperly ſo called.</hi>
+            </p>
+            <p>Then any one that can propheſie now adays, may preach, by this Argument. But if it be an Office improperly ſo cal<g ref="char:EOLhyphen"/>led, then they that propheſied are improperly called Offi<g ref="char:EOLhyphen"/>cers: ſo that then to ſpeak properly, they did ſpeak to edi<g ref="char:EOLhyphen"/>fication and comfort out of Office, and as gifted Bre<g ref="char:EOLhyphen"/>thren.</p>
+            <p>And for your ſimilitude of a Judge his place, you ſay, <hi>If ſuch a place fall, all the Sergeants about the Town may ſeek, for it.</hi>
+            </p>
+            <p>Which implies, That there was ſome great Benefice va<g ref="char:EOLhyphen"/>cant, and that the Apoſtle would have all the Church to gape for it, when he bids them covet to propheſie; ſurely, the ſimile can hold forth little elſe.</p>
+            <pb n="24" facs="tcp:119033:16"/>
+            <p>But pray Sir, though all the Sergeants about the Town may lawfully ſeek for ſuch a place, may all the people about the Town ſeek lawfully for a Judges place when it falls? for this is the caſe; all the Church are exhorted to covet Pro<g ref="char:EOLhyphen"/>pheſying, and not ſome particular perſons: and therefore you ſee that the ſimile is beſides the matter, ſince that all a Church may lawfully covet to Propheſie; but all the people in a Commonwealth cannot lawfully covet the place of a Judge.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>14</label> You ſay, <hi>My fourteenth Query is worth nothing, onely</hi> (you ſay) <hi>why may not our whole Church covet as well to be ordinary Officers as to be preaching gifted Brethren? and if becauſe it is monſtrous to have ſo many ruling Heads, is it not</hi> (ſay you) <hi>as monſtrous to have as many ſpeaking Tongues?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> As for your ſaying, <hi>My fourteenth Query is worth nothing:</hi> Truely, I might have anſwered all yours at this rate, had it not been that I feared you would have been wiſe in your own conceit.</p>
+            <p>But further, you ſay nothing, indeed, to that which is de<g ref="char:EOLhyphen"/>manded; but ask, <hi>Whether for all men to covet to ſpeak be not to make the Body as monſtrous as if they did all covet to be Offi<g ref="char:EOLhyphen"/>cers?</hi>
+            </p>
+            <p>To which I anſwer, That though they are not all to covet to ſpeak as Officers; yet it doth not follow, but they may all covet to ſpeak as God hath enabled them, to the edifica<g ref="char:EOLhyphen"/>tion of the Body, without making the Body monſtrous: for if all were to ſpeak at once, indeed, this were to make the Body of Chriſt monſtrous; but to ſpeak one after another as they are exhorted, to edification and comfort, hath not a<g ref="char:EOLhyphen"/>ny thing in it of a monſtrous nature.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>15</label> I come to examine, ſince Mr. <hi>Willes</hi> told the people, That <hi>it is a ſin for any to preach that are not ordained,</hi> &amp;c. which of thoſe ſeveral Ordinations in Chriſtendome, it is that Chriſt approves of. Hereupon, after ſome Que<g ref="char:EOLhyphen"/>ſtions made touching the buſineſs of Ordination, which is not at all to the Queſtion before you, you demand of me, <hi>Whether you may not ſay, That all Ordinations in Chriſten<g ref="char:EOLhyphen"/>dome
+<pb n="25" facs="tcp:119033:16"/>are approved by Chriſt, that differ but thus circumſt anti<g ref="char:EOLhyphen"/>ally?</hi> &amp;c.</p>
+            <p>I anſwer, Why did you not ſay ſo then, That all the Ordi<g ref="char:EOLhyphen"/>nations in Chriſtendome are accepted by Chriſt, without asking my leave? But then you muſt know. That the Church of <hi>Rome</hi> either erre in the eſſentials of this Ordinance, or in circumſtance: if in eſſentials, then ſhe cannot or<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>in at all; if but in circumſtance, then if you dare ſpeak out, doth not Chriſt approve of her Adminiſtration of it at this day, by what you ſay in the later end of this Query? But to pro<g ref="char:EOLhyphen"/>ceed to the next, in which,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>16</label> I demand, If a Man might not lawfully by this Opinion be ordained at <hi>Rome?</hi> And thereupon you query, <hi>Whether I dare ſay that</hi> Rome <hi>obſerves that Goſpel purity in this Ordinance?</hi>
+            </p>
+            <p>To which I anſwer, That this was no part of my Queſti<g ref="char:EOLhyphen"/>on, <hi>viz.</hi> Whether it was as purely; but, whether it may lawfully be obtained there?</p>
+            <p>But you go on, and ſay, That <hi>the ſubſtance may be there,</hi> viz. <hi>at</hi> Rome.</p>
+            <p>Then, Sir, by your own Maxime it is approved by Chriſt, ſince in this Ordinance they do erre but circumſtan<g ref="char:EOLhyphen"/>tially.</p>
+            <p>But you go on, and ſay, That <hi>three things onely excuſe in errors circumſtantial.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>The firſt is, when the error is ſlight,</hi> &amp;c.</item>
+               <item>
+                  <hi>The ſecond</hi> (you ſay) <hi>is a ſincere a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m at the glory of God.</hi>
+               </item>
+               <item>
+                  <hi>The third is in caſe of noceſſity,</hi> &amp;c. you ſay, <hi>is this our caſe now? and can we not have it with more purity then at</hi> Rome? <hi>&amp;c.</hi>
+               </item>
+            </list>
+            <p>Sir, I am not about to ask you, Whether it may not more purely be had; but, whether it may be had lawfully?</p>
+            <p>But to proceed, It ſeems then by your Query, if a man doth not think the Church of <hi>Rome</hi> erres in any thing (as thoſe do that go thither for Ordination) then he being ig<g ref="char:EOLhyphen"/>norant of their errors, may lawfully be ordained there, and that Chriſt will accept of it: for you ſay, That <hi>a ſincere
+<pb n="26" facs="tcp:119033:17"/>aim at the ſubſtance, with ignorance of the errors in circumſtance, will excuſe.</hi>
+            </p>
+            <p>So that all that you have ſaid, though it will not juſtifie a mans going to <hi>Rome</hi> for Ordination, that knows their er<g ref="char:EOLhyphen"/>rors, and knows there is no neceſſity to go thither, yet it doth juſtifie all that are otherwiſe minded, and are ſtill ig<g ref="char:EOLhyphen"/>norant, by your own confeſſion: for you confeſs, that Chriſt accepts of all Ordinations that differ but in circumſtance: are you not indulging the Church of <hi>Rome?</hi> But to pro<g ref="char:EOLhyphen"/>ceed.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>17</label> I demanded, If the Proteſtant Ordination be the onely lawful Ordination, then which of thoſe, whe<g ref="char:EOLhyphen"/>ther Epiſcopal, Presbyterian or Independent, be that which Chriſt approves of, <hi>&amp;c.</hi> Thereupon you query, <hi>Whether you may not ſay, All are approved by Chriſt?</hi>
+            </p>
+            <p>But doth all you have ſaid ſignifie Chriſt's approbation of all theſe? have you urged any thing but that which is as diſ<g ref="char:EOLhyphen"/>putable as the thing in queſtion; and ſo endeavour to prove one doubtful thing by another? for you ask me, <hi>If that I do not eaſily ſee all theſe,</hi> viz. <hi>the Epiſcopal, Presbyterian, and the moſt ſober Independents, own the eſſence of Ordination, that is,</hi> (ſay you) <hi>a ſetting apart men to the Miniſtery by Miniſters, and that they do practice the purity of that Ordinance by ſetting apart fit men in a Goſpel-way, for thoſe ends a Miniſtery is appointed, without ſuperſtitious intermixtures.</hi>
+            </p>
+            <p>Sir, when you have proved this which you ask me, <hi>If I do not eaſily ſee,</hi> to be in all the Ordinations before menti<g ref="char:EOLhyphen"/>oned, then I ſhall grant your conſequence, <hi>viz.</hi> That Chriſt approves all theſe Ordinations: but in the mean while I deny the Antecedent; for all you ſay, <hi>I might eaſily ſee it:</hi> but if it was ſo eaſie for me to ſee, why was it not as eaſie for you to have proved it? is this to reaſon rationally? or is it not that which a Scholar, that values either credit or conſcience, would ſcorn, <hi>viz.</hi> to take it for granted all theſe Miniſters are ſuch, and that all their Ordinations are lawful; and then conclude, that Chriſt owns them all, and give us no Text to prove any thing you ſay, though the ſtreſs
+<pb n="27" facs="tcp:119033:17"/>of the Controverſie depends upon it.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>18</label> And becauſe I query if all thoſe Ordinations of Epiſcopacie and Presbytery, <hi>&amp;c.</hi> were lawful, (as you confeſs) then why were theſe Ordinations oppoſed one to the other, by the ſeveral Patrons of them? This was the ſubſtance of that Query. You thereupon ask me, <hi>If I am not uncharitable to charge the error of one man</hi> (meaning, Dr. <hi>Taylor,</hi> who oppoſed the Presbyters, as Men that had no power to ordain) <hi>upon the reſt of the Epiſcopal way?</hi> &amp;c.</p>
+            <p>To which I anſwer, That though I cited him for brevity ſake, yet I did refer the Reader to his Book called, <hi>Epiſco<g ref="char:EOLhyphen"/>pacie aſſerted,</hi> where he cites the Fathers, and the conſtant Opinion of the Churches, for the proof of what he ſaith a<g ref="char:EOLhyphen"/>gainſt Ordination by Presbyters; to which you have ſaid nothing, but tell us a ſtory at the third hand of what Biſhop <hi>Uſher</hi> told the King of the practice of one particular Church, <hi>viz.</hi> of <hi>Alexandria;</hi> and of what the Rubrick ſaith, and of what Dr. <hi>Prid.</hi> ſaith. But to theſe I may anſwer, That it is no<g ref="char:EOLhyphen"/>thing to the Opinion of moſt of the Biſhops way, and that not onely in <hi>England,</hi> but where-ever that Government is practiſed.</p>
+            <p>And for your citing the <hi>London</hi>-Miniſters, are not they like to be good Witneſſes, ſeeing they are parties that would fain make all Antiquity ſpeak for the things they profeſs, that the novelty of them may not be ſuſpe<g ref="char:EOLhyphen"/>cted?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>19</label> In my nineteenth Query I ask, If that the Ordination by Biſhops was lawful, why then did the Pres<g ref="char:EOLhyphen"/>byterians throw down Epiſcopacy, and not rather reform it? This was the ſum of this Queſtion. To which, in ſtead of anſwering, you ask, <hi>If I do ſtill go on in my unchriſtian charges, whereby you tell me I do not onely lay injuſtice, but blood upon the head of Presbyterians,</hi> &amp;c.</p>
+            <p>But wherein do I ſpeak any thing unlike a Chriſtian? if that be true as you ſay, <hi>viz.</hi> That <hi>Epiſcopal Ordination was good, and that they did practice it in the purity of it, without ſuperſtitious mixture,</hi> as you confeſs in your ſeventeenth
+<pb n="28" facs="tcp:119033:18"/>Query, then how do I exhibit an unchriſtian charge againſt them, by asking why they did not reform the Government, rather then caſhier it? <hi>&amp;c.</hi>
+            </p>
+            <p>You go on, and further demand, <hi>Whether I dare aſſert, that the Presbyterians did throw down the Government of Epiſcopacy, meerly for this error in Ordination?</hi> &amp;c.</p>
+            <p>I anſwer as before, If they did erre in other things, why were not thoſe reformed, and Ordination by Biſhops ſtill preſerved, ſeeing (you ſay) that their Ordination was in pu<g ref="char:EOLhyphen"/>rity?</p>
+            <p>But further, how comes this to paſs, that in your ſeven<g ref="char:EOLhyphen"/>teenth Query you ſay, That <hi>Epiſcopal Ordination was in purity;</hi> and yet ask me, <hi>Whether that Government was thrown down meerly for the error in Ordination?</hi> how can it be in pu<g ref="char:EOLhyphen"/>rity, if it had errors?</p>
+            <p>And for your ſaying, That <hi>the Anabaptiſtical Spirits are bloody, witneſs thoſe in</hi> Germany, <hi>&amp;c.</hi>
+            </p>
+            <p>I anſwer, This is an unchriſtian Charge indeed, and therefore you thought you would cry out firſt, That others were guilty, that your ſelf might not be ſuſpected: for, what if that ſtory of <hi>Germany</hi> were true, (which is doubtful in many things) doth not this ſhew what Spirit you are of, laying the cauſe of the late Wars, at the Anabaptiſts Doors? have they not been as ſerviceable to their Power, to free their Country from ſlavery, as any, both in Purſe and Perſon? were they the cauſe of the firſt and ſecond War in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> and the ſecond War in <hi>England?</hi> was any of them you call <hi>Anabaptiſts</hi> in the treaſonable Engagement? who of them did joyn to bring in King <hi>Charles</hi> again, into <hi>Scot<g ref="char:EOLhyphen"/>land</hi> firſt, and afterwards into <hi>England?</hi> was it the Anabap<g ref="char:EOLhyphen"/>tiſt, or who was it, pray ſpeak out, that made all theſe Up<g ref="char:EOLhyphen"/>roars both in City and Country?</p>
+            <p>But leſt you ſhould erre for want of Information, let me ſhew you, That the Presbyters have been inſpired with a worſe Spirit, to carry on their Presbyterian-Uſurpation, then ever the Anabaptiſts were in <hi>Germany;</hi> nay, I am ſure I
+<pb n="29" facs="tcp:119033:18"/>ſhould not be raſh, if I ſhould ſay, The ſame Spirit which they have cried down in their Adverſaries the Jeſuites, hath been found breathing in them.</p>
+            <p>And for proof hereof, I ſhall refer the Reader to the Hi<g ref="char:EOLhyphen"/>ſtories and Writings that have been writ by great Patrons of the Presbyterian way. I ſhall begin with Mr. <hi>Knox,</hi> who in his <hi>Hiſtory of the Reformation of the Church of</hi> Scot<g ref="char:EOLhyphen"/>land, ſaith, That <hi>without the Reformation which they deſired, they</hi>(meaning the Covenanters) <hi>would never be ſubject to any mortal man.</hi> See <hi>Knox Hiſtory of the Church of</hi> Scotland, firſt Impreſſion in Octavo, <hi>page</hi> 265.</p>
+            <p>
+               <hi>They,</hi> viz. the Presbyterians, <hi>took away the Queens Coyn<g ref="char:EOLhyphen"/>ing, Irons by force and arms, and did juſtifie the ſame, Knox</hi> Hiſt, <hi>page</hi> 308.</p>
+            <p>Again, they ſay, <hi>The Commonalty ought to reform Religion, if the King will not.</hi> See <hi>Knox to the Commonalty,</hi> pag. 49, 50. And, That <hi>if Princes be Tyrants againſt God and the truth, their Subjects are freed from their Oaths of Allegiance. Knox</hi> to <hi>England</hi> and <hi>Scotland,</hi> fol. 78.</p>
+            <p>This they learned from <hi>Geneva:</hi> for when <hi>Farellus Viretus,</hi> and others, firſt preached, the Biſhop of <hi>Geneva</hi> was Lord of the City, and had power as a civil Migiſtrate, as <hi>Calvin</hi> in his Letter to Cardinal <hi>Sadolete</hi> writeth, <hi>Jus gladii alias civilis juriſdictionis partes,</hi> &amp;c. And yet without any Honour or Reſpect, (which they as Chriſtians were bound to give him as their civil Magiſtrate) they called him a Thief and an Uſur<g ref="char:EOLhyphen"/>per; and ſo of themſelves, with ſuch aſſiſtance as they could get, threw him out of his civil juriſdiction: ſince which time it hath been a principle among the Presbyters, as appears by <hi>Whittingam</hi> in his Preface to <hi>Goodman</hi>'s Book, where he ſaith, That <hi>if Kings and Princes refuſe to reform Religion, the inferiour Magiſtrates or People, by the direction of the Mini<g ref="char:EOLhyphen"/>ſtery, might lawfully, and ought (if need require) even by force and arms to reform it themſelves.</hi> Accordingly they proceeded in <hi>Scotland,</hi> as you have heard out of <hi>Knox,</hi> who was one of the Presbyterian Reformers.</p>
+            <p>I ſhall in the next place, cite ſome of <hi>Buchanan</hi> his Preſ<g ref="char:EOLhyphen"/>byterian-Maximes,
+<pb n="30" facs="tcp:119033:19"/>out of his Book, entituled, <hi>De Jure Regni,</hi> pag. 61. he ſaith, <hi>Populus Rege eſt praeſtantior &amp; melior:</hi> The People are better then the King, and of greater Au<g ref="char:EOLhyphen"/>thority.</p>
+            <p>Again, he ſaith, <hi>Populo jus est, ut imperium cui velit deferat,</hi> pag. 13. <hi>De Jure Regni:</hi> The People have right to beſtow the Crown at their pleaſure.</p>
+            <p>Again, <hi>pag.</hi> 25. he ſaith, <hi>Penes populum eſt ut leges ferat, ſunt Reges veluti tabulariorum Ceſtodes:</hi> The making of Laws doth belong to the People, and Kings are but as Maſters of the Rolls.</p>
+            <p>Again, <hi>pag.</hi> 58. he ſaith, <hi>The people have the ſame power over the King, that the King hath over any one perſon.</hi> And <hi>pag.</hi> 40. <hi>It were good</hi> (ſaith he) <hi>that rewards were appointed by the Peo<g ref="char:EOLhyphen"/>ple, for ſuch as ſhould kill Tyrants, as commonly there is for thoſe,</hi> Qui Lupos aut Urſos occiderunt, ant Catulos eorum depre<g ref="char:EOLhyphen"/>henderunt: <hi>that have killed either Wolves or Bears, or taken their Whelps.</hi>
+            </p>
+            <p>This Spirit our old Presbyterians in <hi>England</hi> were in<g ref="char:EOLhyphen"/>ſpired with about the ſame time, as the Author of the Book of <hi>Obedience,</hi> (but rather of Rebellion) doth manifeſt, <hi>page</hi> 215. in theſe words, ſaying, <hi>If neither the Magiſtrate nor the greateſt part of the People will do their Offices, in puniſhing, depoſing or killing of Princes,</hi> (meaning ſuch as ſhould be a<g ref="char:EOLhyphen"/>gainſt the Presbyterian-Reformation, ſo much then ſought after by <hi>Calvin</hi>) <hi>then</hi> (ſaith he) <hi>the Miniſter may excommuni<g ref="char:EOLhyphen"/>cate ſuch a Prince,</hi> pag. 186. And in <hi>pag.</hi> 110. of the ſaid Book, the Author ſaith, That <hi>in caſe of defection a private man may kill a Tyrant as</hi> Moſes <hi>did the Egyptian, if he have any ſpeci<g ref="char:EOLhyphen"/>al inward motion; otherwiſe,</hi> (he ſaith) <hi>a private man may do it, if he be but permitted by the Commonwealth.</hi>
+            </p>
+            <p>
+               <hi>Goodman</hi> (who alſo was in that time as great a ſtickler for the Presbyterian-Reformation as the reſt) ſaith in his Book, p. 190. <hi>Subjects do promiſe obedience, that the Magiſtrate may help them; which if they do not, they are diſcharged of their O<g ref="char:EOLhyphen"/>bedience.</hi> And in <hi>pag.</hi> 180, 184, 185. he hath many paſſages to the like purpoſe; among which, this is obſervable, <hi>The
+<pb n="31" facs="tcp:119033:19"/>people</hi> (ſaith he) <hi>in</hi> Numb.25. <hi>did hang up certain of their Heads,</hi> &amp;c. <hi>which ought</hi> (ſaith he) <hi>to be perpetual example of their duty,</hi> (meaning the common people) <hi>in the like de<g ref="char:EOLhyphen"/>fection from God, to hang up ſuch Rulers as ſhall draw them from him.</hi>
+            </p>
+            <p>
+               <hi>This Doctrine</hi> (of killing and depoſing Magiſtrates by a pri<g ref="char:EOLhyphen"/>vate perſon, of the common people, when Magiſtrates do not reform according to their humours, ſaith <hi>Whittingam</hi> in his Preface to <hi>Goodmans</hi> Book) <hi>was approved by the beſt learned in</hi> Geneva; meaning <hi>Calvin</hi> and the reſt of the Genevians, to<g ref="char:EOLhyphen"/>gether with ſome Britiſh Patrons of that way: for beſides <hi>Goodman</hi> and <hi>Whittingam,</hi> there was <hi>Anthony Gibly, Miles Coverdale, David Whitehead,</hi> and ſundry others, who did deſire that <hi>Goodman</hi>'s Book might be printed, to which <hi>Whit<g ref="char:EOLhyphen"/>tingam</hi> made a Preface, greatly commending the aforeſaid bloody Doctrine.</p>
+            <p>Now whoever ſhall compare theſe paſſages with the pra<g ref="char:EOLhyphen"/>ctice of Presbytery ever ſince, both in <hi>Scotland</hi> and <hi>Eng<g ref="char:EOLhyphen"/>lend,</hi> ſhall finde, that they have throughly ſtudied this point, <hi>viz.</hi> of imbruing Nations in Blood, and ſetting up and throwing down Magiſtrates, according as they judge them fit or unfit for their pretended Reformations. Hath not <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Scotland,</hi> to their great grief, found this to be true, by woful experience? And yet the Anabaptiſts and Fifth-Monarchy-men, are decried by you and Mr. <hi>Willes,</hi> as the onely State-Hereticks and Incendiaries, as though they were the onely men that are againſt Magiſtracy; but who<g ref="char:EOLhyphen"/>ever ſhall conſider of theſe forecited paſſages, may con<g ref="char:EOLhyphen"/>clude, that there was little reaſon why the Presbyterians ſhould complain of the Jeſuites Principles, unleſs their own were better: for, if that be true which Dr. <hi>White</hi> ſaith is their ſpecial vow, which he mentions in <hi>page</hi> 573. of his Reply to the Church of <hi>Rome,</hi> and <hi>pag.</hi> 577. and <hi>pag.</hi> 579. where he ſaith, That <hi>the vows of the Jeſuites are to execute the Popes pleaſure in killing the King: and what ſafety can they have that rely upon ſuch Servants?</hi> &amp;c. Which Vow he in<g ref="char:EOLhyphen"/>ſerts in Latine in his Margent, out of the Bull of confirma<g ref="char:EOLhyphen"/>tion
+<pb n="32" facs="tcp:119033:20"/>of the Jeſuites, by Pope <hi>Paul</hi> the third; which is thus much in Engliſh: <hi>We judge it expedient for the great Devoti<g ref="char:EOLhyphen"/>on to the Sea Apoſtolike, and more full abnegation of our own Wills and Pleaſures, that the profeſſed of this ſociety, beſides the common bond of three vows, be further tied by ſpecial vow: ſo that whatſoever the Roman Biſhop for the time being ſhall com<g ref="char:EOLhyphen"/>mand pertinent unto the ſalvation of mens ſouls, and propagation of the Faith, they ſhall be bound to execute the ſame preſently, without tergiverſation and excuſe, whether they ſhall be ſent unto Turks, or unto Infidels, even unto thoſe that are commonly called the Indies, or unto Hereticks or Schiſmaticks,</hi> &amp;c. Which Vow, though it be bad enough, and not to be approved, yet it hath not more of a bloody Nature then is contained in the fore<g ref="char:EOLhyphen"/>cited paſſages out of Presbyterian Authors.</p>
+            <p>By this you may ſee, that Mr. <hi>Willes</hi> and you had ſo little reaſon to cry out againſt the Anabaptiſts, for being bloody, and againſt Magiſtrates, that you and thoſe of your way, had need waſh your own hands, before you can with confidence juſtly cry down the Jeſuites, ſince your Principles are as bad as theirs in this particular.</p>
+            <p>And therefore <hi>Lyſimachus Nicanor,</hi> a Jeſuite, hath writ a congratulatory Epiſtle to the Covenanters in <hi>Scotland,</hi> print<g ref="char:EOLhyphen"/>ed in the yeer 1640. where, in <hi>pag.</hi> 1 he ſaith, He <hi>heartily doth congratulate with them, and doth rejoyce at their begun-return to their Mother the Church of</hi> Rome, <hi>in that they have forſaken the erronious Opinion of the Proteſtants, concerning the civil Magiſtrate, and have happily (in that particular) joyned with the Church of</hi> Rome.</p>
+            <p>And in the ſame page he ſaith, That <hi>they,</hi> viz, the Pres<g ref="char:EOLhyphen"/>byterians, <hi>have ſo well begun at the Head, the civil Magiſtrate, that they truſt they will imbrace the other members of the Roman Doctrine.</hi>
+            </p>
+            <p>By which the Reader may ſee that the Presbyters have ſought to climbe into their Authority, by the Jeſuites ſteps, though now they cry out againſt the ſame things: which makes me remember an old ſaying, which is verified in the
+<pb n="33" facs="tcp:119033:20"/>Presbyters, though it hath been applied to Princes.</p>
+            <q>
+               <l>Presbyters inthron'd, when once their turns are ended,</l>
+               <l>Throw down thoſe ſtairs by which themſelves aſcended.</l>
+            </q>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>20</label> But you proceed to the twentieth Query, and therein you tell me, That <hi>Biſhops did not ordain as Biſhops, but as Miniſters:</hi> in anſwer to my twentieth Query.</p>
+            <p>But how do you prove they did not ordain as Biſhops? This is a figment of your own brain: for if they did it as Miniſters, why then might not any Miniſter have ordained, as well as they? but they never ſuffered any ſuch thing among them.</p>
+            <p>And for your ſaying, That <hi>they were lawful Miniſters of Chriſt, and therefore you do not diſtruſt his promiſe of being with them.</hi>
+            </p>
+            <p>What an Argument is this? may not any body by this Argument cry up themſelves for Miniſters, (as too many now adays do) and ſay, That Chriſt will be with them to the end of the Would?</p>
+            <p>Therefore before you go to prove that which I deny not, prove that which is denied, that they are Chriſt's Miniſters: but if they be your Brethren, the Presbyterians have done very ill to throw them out of their Livings, and ex<g ref="char:EOLhyphen"/>poſe their Wives and Children to penury and want, while they enjoy their Places and Revenues. Did ever Chriſt's Miniſters turn any out of their places, that they judged Chriſt's Miniſters? or did ever any of them come to take the profits of another's living without his conſent which was the incumbent, then they judged the incumbent Chriſt's Miniſter? and yet theſe things have been done without bluſhing. So that though you ſay, <hi>Chriſt hath not deveſted them of their power,</hi> ſure ſome body hath deveſted them of their profits.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>21</label> In the twenty one Query I demand, why a man may not ſtill go to the Biſhops for Ordination, if that their Ordination be of God, ſince their Authority was never
+<pb n="34" facs="tcp:119033:21"/>taken from them in an Eccleſiaſtical way? which is the ſum of this Queſtion: whereupon you query, <hi>What I mean by taking away Authority.</hi>
+            </p>
+            <p>I anſwer, When they ſhall be deveſted thereof, by the Church, for ſcandalous and enormous crimes.</p>
+            <p>You ask, <hi>If Epiſcopal Authority of ordaining as Miniſters, is not founded upon Gods word?</hi>
+            </p>
+            <p>I anſwer, firſt, If Epiſcopal Authority to ordain as Mini<g ref="char:EOLhyphen"/>ſters be abſurd, then it cannot be grounded upon the Word of God; and that it is ſo, appears: for is it not ab<g ref="char:EOLhyphen"/>ſurd for you to ſay, That the Biſhops Authority is of God to ordain Miniſters; and yet ſay, That they muſt not ordain as Biſhops, but as Miniſters? for if Epiſcopal Authority be of God, then they may lawfully ordain as Biſhops: for all will confeſs, That a man may lawfully exerciſe any Authority that comes from God.</p>
+            <p>Therefore, how ridiculous are you to confeſs, That E<g ref="char:EOLhyphen"/>piſcopal Authority is of God; and yet ſay, they muſt not ordain as Biſhops, but as Miniſters?</p>
+            <p>And to the later part of your Counter-Query, about the purity of Ordination, I have already anſwered, by ſhewing you how ſhamefully you beg the Queſtion, by taking it for granted, that your Presbyterian-Ordination is a purer Or<g ref="char:EOLhyphen"/>dination then any other, when for the proof thereof, you have not alledged one Text nor Argument, through your whole Book.</p>
+            <p>For the third particular in this Queſtion, I ſhall anſwer that when I come to ſpeak to the twenty ſeventh Query.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>22</label> I demand in my twenty ſecond Query, If that Chriſt had ever two Ordinations in his Church, one contrary to the other; and yet both lawful: for ſuch is the ſtate of E<g ref="char:EOLhyphen"/>piſcopacy and Presbytery.</p>
+            <p>In your counter-Query to this, you talk of Logick, and in<g ref="char:EOLhyphen"/>deed you do but talk of it: for had you obſerved the Rules of Logick, you would never have begged Queſtions in ſtead of anſwering and proving them.</p>
+            <p>But how doth it appear, that I ſay any thing that is illo<g ref="char:EOLhyphen"/>gical
+<pb n="35" facs="tcp:119033:21"/>in the laſt Queſtion, if I do ſay, The Epiſcopal and Presbyterian Ordinations cannot be both of Chriſt's ap<g ref="char:EOLhyphen"/>pointment, ſince they contradict one another? But you think to ſalve this ſore by telling us, That <hi>they are not contra<g ref="char:EOLhyphen"/>dictious, ſince they both agree in an Ordination by Miniſters, and differ but in circumſtances,</hi> &amp;c.</p>
+            <p>To this I anſwer, That they ſo differ, that where any hath been ordained by meer Presbyters, it hath (in moſt parts of the Chriſtian World) been eſteemed as a rullity: and where Presbyterian Ordination hath been allowed, it hath been but in caſe of neceſſity, as appears by the Engliſh Bi<g ref="char:EOLhyphen"/>ſhops Confeſſion to the Biſhops of <hi>Scotland.</hi>
+            </p>
+            <p>That it hath been adjudged a nullity, <hi>viz. Ordination by Presbyters,</hi> I prove, firſt, from the teſtimony of <hi>Hierom: What</hi> (ſaith he) <hi>doth a Biſhop, that a Prieſt doth not,</hi>
+               <note place="margin">Epiſt. ad Evagri<g ref="char:EOLhyphen"/>um, Hom. <hi>11.</hi> in <hi>1.</hi> ad Timot. ini<g ref="char:EOLhyphen"/>tio.</note> EXCEPT ORDINATION? <hi>Chryſoſtome</hi> ſaith the ſame: <hi>A Biſhop</hi> (ſaith he) <hi>exceeds a Prieſt</hi> ONELY IN ORDINATION. <hi>Athanaſius,</hi> ſpeaking of <hi>Iſchyras,</hi> who profeſt to be a Prieſt, ſaith, That <hi>he did but boaſt himſelf to be one:</hi>
+               <note place="margin">Apolog. <hi>2.</hi> Epiſt. Presbyt. ad fla<g ref="char:EOLhyphen"/>vi.</note> 
+               <hi>for</hi> (ſaith he) <hi>he is in no ſort to be approved of, ſeeing he was not ordained by a Biſhop, but by</hi> Coluthius, <hi>a Presbyter.</hi>
+            </p>
+            <p>And the Councel of <hi>Alexandria,</hi> ſpeaking of the ſame <hi>Coluthius,</hi> ſaith, That <hi>he died in the</hi> SIMPLE DEGREE OF A PRESBYTER; <hi>and therefore all the impoſitions of hands exerciſed by him were null; and that all thoſe that were ordained by him were but lay Perſons; and under that name and title of lay-Perſons, they were admitted to the Holy Com<g ref="char:EOLhyphen"/>munion.</hi>
+            </p>
+            <p>Again, <hi>Epiphanius</hi> reckons Ordination by Presbyters as an Arrian Hereſie, <hi>Her.</hi> 75. in as much as <hi>Arrius</hi> held, That <hi>the Presbyters might ordain as well as Biſhops,</hi> &amp;c.</p>
+            <p>And further he ſaith, That <hi>the Epiſcopal Order is to beget Fathers to the Church; whereas the Prieſtly (or Presbyterian) Order is to beget Children by the Laver of Regeneration: and therefore</hi> (ſaith he) <hi>they</hi> (meaning the Presbyters) <hi>cannot or<g ref="char:EOLhyphen"/>dain
+<pb n="36" facs="tcp:119033:22"/>nor beget Fathers and Doctors to the Church,</hi> &amp;c.</p>
+            <p>
+               <hi>Auguſtin,</hi> Haereſ. 53. blames the Arrians for that they had learned of one <hi>Arrius,</hi> to confound the Order of Prieſt and Biſhop.</p>
+            <p>Is it not plain then, that you endeavour to delude your Reader, by ſaying, That <hi>there was no contradiction touching this matter, and that it was the error of one man,</hi> meaning Dr. <hi>Tay<g ref="char:EOLhyphen"/>lor?</hi> when, indeed, your ignorance is very great, if you ſay, He was alone in this matter. By this the Reader may ſee, That former times did not eſteem both Ordinations lawful, <hi>viz</hi> That that was done by Biſhops, and that that was done by Presbyters; but looked upon the one as a meer nullity: ſo that whatever you ſay, there hath been a manifeſt contra<g ref="char:EOLhyphen"/>diction; and that the difference was not circumſtantial, as you vainly tell your Reader, but eſſential: for not onely the Fathers, but Councels, judged Ordination by Presbyters a meer nullity, and that Epiſcopal Ordination was eſſential to the being of the Miniſters Office.</p>
+            <p>So that the thing you ſo much talk of, <hi>viz.</hi> That both theſe Ordinations are of God, is a meer fiction. But more of this anon.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>23</label> In my twenty third Query, I demand, If that the Independent-Ordination be of God, wherein is Mr. <hi>Brookes</hi> to be condemned, if he preach according to the In<g ref="char:EOLhyphen"/>dependent-Ordination? You hereupon tell your old tale, <hi>viz</hi> That <hi>you cannot believe by what I have urged, any Or<g ref="char:EOLhyphen"/>dination to be according to Rule, but what is done by Mini<g ref="char:EOLhyphen"/>ſters.</hi>
+            </p>
+            <p>To which I anſwer, That this was no part of my buſineſs in the Queſtions propoſed, from firſt to laſt: for all my bu<g ref="char:EOLhyphen"/>ſineſs was to ſhew by the light of thoſe Queries, That it was not ſinful to preach without Ordination, and that Mr. <hi>Willes</hi> his Ordination was a meer nullity that he ſo much glories in, and that it is not that which Chriſt approves of, and for your ſlanders, in ſaying, That <hi>I appear for Independency as a cloak for Anabaptiſm,</hi> &amp;c. Did you not bluſh when you writ this horrid untruth? Have I not, your own confeſ<g ref="char:EOLhyphen"/>ſion,
+<pb n="37" facs="tcp:119033:22"/>appeared as publickly for that which you call <hi>Ana<g ref="char:EOLhyphen"/>baptiſm?</hi> Do you not tell your Reader, That <hi>I did pub<g ref="char:EOLhyphen"/>lickly appear at the Diſputation held at</hi> Clements, <hi>without</hi> Tem<g ref="char:EOLhyphen"/>ple-Bar, <hi>which was againſt Infant-Baptiſm?</hi> And have I not publiſhed my Opinion in print touching this Controverſie? and yet you are ſo impudent as to tell your Reader, <hi>I appeared for Independency as a cloak, that my deſign might be the more plauſible.</hi> It's no wonder that you conceal your Name, ſince you can write at this rate.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>24</label> I ask in my twenty fourth Queſtion, If that Ordination by Presbyters were the onely Ordination, where was an Ordination to be had in <hi>England</hi> thirty yeers ago?</p>
+            <p>Your Query thereupon is nothing, but to enquire, <hi>Whe<g ref="char:EOLhyphen"/>ther Presbyterian and Epiſcopal-Ordination might not both be lawful?</hi> and bid me <hi>prove by the next, That Biſhops COULD NOT ordain then, and that Presbyters CANNOT ordain mow.</hi>
+            </p>
+            <p>Oh ſhameleſs Diſputant! I told you you could talk of Logick; but how little you uſe, let the Reader judge. My main deſign in propoſing my Queſtions, was to put ſome one or other upon the proof of that which was ſo frequent<g ref="char:EOLhyphen"/>ly aſſerted, <hi>viz. That the Ordination by Biſhops or by Presby<g ref="char:EOLhyphen"/>ters, is of God;</hi> (meaning that which is practiced by the National Miniſters.) And you come forth, and bid me prove, That <hi>the Biſhops could not, and that the Presbyters can<g ref="char:EOLhyphen"/>not.</hi> If you can diſpute no better, you ſhall never commence Maſter of Arts.</p>
+            <p>Sir, is it not a ſad thing, for you to tell your Reader in your Epiſtle to him, That <hi>this Doctrine of Ordination that is now contended for, is a foundation-Doctrine?</hi> And when you are demanded a proof of it, you ſhamefully ſhuffle, and bid me prove in my next, That it is not, and that they had not power to ordain; or if the Biſhops and Presbyters did not ordain true Miniſters. Therefore take an Anſwer: I ſay, They did not; and charge you in your next to reaſon like a man, and prove they did.</p>
+            <pb n="38" facs="tcp:119033:23"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>25</label> In my twenty fifth Query I demand, Why Mr. <hi>Willes</hi> did not tell his Hearers, which of thoſe divers kindes of Ordination it is that God approves of? This was the ſum of this Query.</p>
+            <p>To which you reply, and the ſum of all you ſay, is, That <hi>if I have heard Mr.</hi> Willes <hi>in all his Sermons upon this Sub<g ref="char:EOLhyphen"/>ject, I might had underſtood, that he was not rigid for Epiſco<g ref="char:EOLhyphen"/>pacy, Presbytery, nor Independency; but for a Moderation,</hi> &amp;c. <hi>and that Ordination any of theſe ways was good, ſeeing the diffe<g ref="char:EOLhyphen"/>rence was but in circumſtance</hi> &amp;c.</p>
+            <p>I have anſwered to this already over and over, that theſe by your own confeſſion, muſt all of them be proved to be Chriſt's Miniſters, before their Ordination muſt be valued; and alſo you muſt prove, That Chriſt ever did allow of Or<g ref="char:EOLhyphen"/>dinations ſo palpably contradictious, (as theſe are, which will further appear in my following Anſwers) before there be any weight in what you or M. <hi>Willes</hi> hath ſaid to this Que<g ref="char:EOLhyphen"/>ſtion.</p>
+            <p>However, if Mr. <hi>Willes</hi> doth well in being indifferent in this matter, how evilly hath the generality of our Presby<g ref="char:EOLhyphen"/>terians ſpent their time about ſuch trifling circumſtances, while the more weighty matters have been neglected? for how furiouſly have they oppoſed the Epiſcopal and Inde<g ref="char:EOLhyphen"/>pendent Government and Governours, though they have been ſuch, which you ſay are Chriſt's Miniſters, and that the differences are but circumſtantial?</p>
+            <p>For the proof of this, I ſhall refer the Reader to Mr. <hi>Ed<g ref="char:EOLhyphen"/>wards</hi> his <hi>Gangraena,</hi> wherein he as much condemns ordained Miniſters in the Independent way, as any other Sect what<g ref="char:EOLhyphen"/>ever; and this was generally approved of by moſt of the Presbyterian Race, as appears by the ſeveral Letters ſent to encourage Mr. <hi>Edwards,</hi> which he hath printed in his Book, which (he ſaith) he received from godly Presbyterian-Miniſters.</p>
+            <p>Nay, is not the noiſe of this hot difference freſh in the ears of all intelligent Men? which you muſt needs ſay was to little purpoſe, if what you ſay of all theſe ſorts of Ordi<g ref="char:EOLhyphen"/>nations be true.</p>
+            <pb n="39" facs="tcp:119033:23"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>26</label> I further demand, Whether Mr. <hi>Willes</hi> his Or<g ref="char:EOLhyphen"/>dination be from the Line of Succeſſion? or whether it was from any neceſſity? &amp;c.</p>
+            <p>And you ask me, <hi>Whether I do not grant that a true ſuc<g ref="char:EOLhyphen"/>ceſſion makes true Miniſters? and whether there is not a caſe of neceſſity when the ſucceſſion in broke off? and whether ſuch a neceſſity doth not make true Miniſters?</hi>
+            </p>
+            <p>This is that you call unanſwerable. This you challenge me to anſwer; and therefore I ſhall ſoon diſmount your confidence, by telling you, That by this Argument I am a true Miniſter: for either I am one by ſucceſſion or neceſſi<g ref="char:EOLhyphen"/>ty; if the Line of Succeſſion was broke, then I am a Mini<g ref="char:EOLhyphen"/>ſter by neceſſity. Would not this Argument juſtifie all Sects that ſchiſmed from <hi>Rome,</hi> as well as you? And did not all the Sects that departed from <hi>Rome</hi> into other novel and ſtrange Opinions, worſe then thoſe they left, reaſon thus, That they either had ſome men which were in religious Or<g ref="char:EOLhyphen"/>ders, that ſeparated with them, and ſo they pretended that they had a ſucceſſive Authority; or elſe they will tell you, That they were the firſt Reformers; and therefore poſitive Laws muſt give place to neceſſity, and therefore all that ſucceed from them are a true Miniſtery?</p>
+            <p>I challenge you to anſwer, Why this is not as good an Ar<g ref="char:EOLhyphen"/>gument to prove any company of men that ſhall depart from <hi>Rome</hi> to be a true Miniſtery, as well as any that you plead for? though they ſhould run from the errors of <hi>Rome,</hi> into other errors that were as bad or worſe.</p>
+            <p>But I therefore anſwer further, That though a man can<g ref="char:EOLhyphen"/>not be a true Miniſter but by one of theſe ways, it doth not therefore follow, (as I have already ſhewed in my Anſwer to Mr. <hi>Willes</hi> his Letter, at the beginning of this Book) that Mr. <hi>Willes</hi> is a Miniſter either of theſe wayes. For though I grant theſe two to be the wayes of admiſſion into the Mi<g ref="char:EOLhyphen"/>niſtery, yet I do deny him to be entred by either of them, though he ſucceed from thoſe you call our firſt Reformers: for I do deny, that they were true Miniſters of Chriſt either way, or that they had either a lawful Succeſſion or neceſ<g ref="char:EOLhyphen"/>ſity
+<pb n="40" facs="tcp:119033:24"/>to authorize them. But of this more anon.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>27</label> I demand, If Mr. <hi>Willes</hi> be a Miniſter by ſucceſ<g ref="char:EOLhyphen"/>ſion, whether he did not ſucceed from <hi>Rome?</hi>
+            </p>
+            <p>You thereupon demand, <hi>Why there may not be a lawful ſucceſſion from the Apoſtles by</hi> Rome?</p>
+            <p>Your firſt Reaſon is, <hi>Becauſe the corruptions of the firſt Re<g ref="char:EOLhyphen"/>ceivers could not null this Ordinance,</hi> &amp;c.</p>
+            <p>To which I anſwer, What if that be granted? That the corruption of Receivers could not null an Ordinance, this doth not prove that corrupt Receivers of the Ordinance of Baptiſm can adminiſter Baptiſm, or that corrupt Receivers of the Lord's Supper can adminiſter it lawfully, after they have been ſeparated from for their corruptions.</p>
+            <p>But your ſecond Reaſon ſaith, That <hi>the corruption of the Diſpenſers, could not make the ſucceſſion ceaſe.</hi>
+            </p>
+            <p>And this you would prove by many ſimilitudes: you ſay, <hi>The Law doth not loſe its force, if it be pronounced by a wicked Judge,</hi> &amp;c.</p>
+            <p>I anſwer, If this Judge be lawfully turned out of his place for wickedneſs, then though the Law doth not loſe its force, yet this Judge hath no power to adminiſter it: ſo I ſay of your Ordination, That if you had juſtly ejected the Pope, he had after this no power to adminiſter the Laws of Chriſt, no more then a Judge that is thrown out hath power to ad<g ref="char:EOLhyphen"/>miniſter the Law of the Land. Thus your ſimile makes a<g ref="char:EOLhyphen"/>gainſt you.</p>
+            <p>And for your ſimile of <hi>Judas</hi> and a hypocrite, whence you would infer, That <hi>their heart-corruption doth not null God's Ordinances that are adminiſtred by them.</hi>
+            </p>
+            <p>I anſwer, That it is true, That ſo long as their ſins are like your Name, unknown, if they do adminiſter Ordi<g ref="char:EOLhyphen"/>nances they may be valued; but what if their ſins are known, and that they ſhall be rejected as Hereticks or as ſcandalous Perſons, have they then any power to admini<g ref="char:EOLhyphen"/>ſter ſacred things?</p>
+            <pb n="41" facs="tcp:119033:24"/>
+            <p>This Anſwer will ſerve for all the reſt of your ſimili<g ref="char:EOLhyphen"/>tudes.</p>
+            <p>But further, If the Church of <hi>Rome</hi> was Apoſtates and Hereticks, and the Church of <hi>England</hi> had ejected her, and ſeparated from her, and judged the Pope to be the great Antichriſt, as indeed they did, then it followeth from Scri<g ref="char:EOLhyphen"/>pture, That it is a ſin to receive Ordination from them: for the Scripture ſaith, <hi>Matth.</hi> 18. <hi>If that any refuſe to hear the Church, he ſhould be eſteemed as a heathen and a publi<g ref="char:EOLhyphen"/>can.</hi>
+            </p>
+            <p>Now then, if the Church of <hi>England</hi> did reject <hi>Rome</hi> for her ſin and Idolatry, it was then as lawful for me to go to any Fellow under a Hedge, and be ordained by him; as it is to go to any ejected of excommunicated Perſons for it: and if the Church of <hi>Rome</hi> be not cut off from being a Church, then are you very wicked, in that you have not communion with them while they are of the Body; if they are not of the Body, then any of the Body hath as much power to adminiſter Ordination as they.</p>
+            <p>And this is not my ſingle Opinion, but it hath been the Opinion of former times: for <hi>Athanaſius</hi> ſaith, <hi>in Epiſt. de Conciliis, By what right can any be Biſhops, that do receive their Ordination from Hereticks?</hi>
+            </p>
+            <p>And further he ſaith, That <hi>it is impoſſible that Ordina<g ref="char:EOLhyphen"/>tions made by</hi> Secundus, <hi>being an Arrian, could have any force in the Church of God.</hi>
+            </p>
+            <p>And further, If the Pope be rejected as that great Anti<g ref="char:EOLhyphen"/>chriſt, it cannot be imagined, that he whom all the Pro<g ref="char:EOLhyphen"/>teſtants judge to be Chriſt's greateſt Enemy ſhould ſo far ſerve the great deſigns of Chriſt's Glory, as lawfully to or<g ref="char:EOLhyphen"/>dain and impower men to preach Chriſt. So that either you did not leave the Church of <hi>Rome,</hi> and reject them as Here<g ref="char:EOLhyphen"/>ticks; or if you did, you ought not to be beholding to them for your Ordination.</p>
+            <p>And further, the Proteſtant Calviniſts in <hi>France,</hi> ſay, in the Confeſſion of their Faith, <hi>Confeſ. Art.</hi> 21. That <hi>their Calling is extraordinary;</hi> and do confirm the ſame by their
+<pb n="42" facs="tcp:119033:25"/>practice, in that they ordain anew, ſuch Prieſts as revolt from <hi>Rome:</hi> but if the corruption of the Diſpenſers did not make their Ordination a nullity, then there was no reaſon for ſuch a practice in a reformed Church.</p>
+            <p>And Mr. <hi>Whitaker</hi> is of this minde: for ſaith he, <hi>We would not have you think, that we make ſuch reckoning of your Orders, as to hold our Vocation unlawful without them.</hi>
+            </p>
+            <p>And Mr. <hi>Fulk,</hi> that famous Oppoſer of <hi>Rome,</hi> tells them, That <hi>they are deceived highly if they think we eſteem of their offices of Biſhops, Prieſts and Deacons-better then Lay-Men.</hi>
+               <note place="margin">See his Anſwer to a counterfeit Catholick, <hi>p.</hi> 50</note> And further, Mr. <hi>Fulk</hi> ſaith, That <hi>with all our heart we</hi> (meaning the Pro<g ref="char:EOLhyphen"/>teſtants) <hi>abhor and deteſt all your ſtinking greaſie Antichriſtian Orders.</hi> And yet other of you glory in your ſucceſſion.</p>
+            <p>See the contradictions among your ſelves! who of you ſhall a man believe?</p>
+            <p>So that if I ſay, You cannot have a lawful Ordination from <hi>Rome,</hi> ſeeing they were by you judged Hereticks, and ſuch as were deſervedly excluded; I have the Scripture of my ſide that ſaith, You ſhould eſteem ſuch as Heathens. I have ſeveral eminent Lights that ſhined in the Church of old. I have ſome of the reformed Churches, and therein many very famous both at home and abroad, which are of my minde.</p>
+            <p>Your laſt Argument you bring to this Point is, That <hi>Chri<g ref="char:EOLhyphen"/>ſtianity was profeſt,</hi> and therefore you ask me, <hi>If I will ſay there was not a company of true Believers all the time the Pope ruled here,</hi> &amp;c.</p>
+            <p>Whence you infer, <hi>If they were true believers, then there was a Church; and if a Church, then there muſt be a Miniſtery, becauſe</hi> (you ſay) <hi>Chriſt promiſed,</hi> Epheſ.4.11, 12, 13. <hi>That the Saints ſhould have ſuch a Miniſtery till they come to be a per<g ref="char:EOLhyphen"/>fect man,</hi> &amp;c.</p>
+            <p>If this be a good Argument, why do you rail againſt the
+<pb n="43" facs="tcp:119033:25"/>Anabaptiſts? For dare you ſay, There is not true believers among them? if there be, then by your Logick they are a Church; and if a Church, then they muſt have Chriſt's promiſe fulfilled, and they then muſt have a true Miniſtery, till they come to be a perfect man.</p>
+            <p>By this Rule, Mr. <hi>Brookes</hi> his people are a true Church, and muſt have a true Miniſtery, or elſe you muſt ſay, The people that walk with him are all Unbelievers.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>28</label> I demanded in my twenty eighth Query, Whe<g ref="char:EOLhyphen"/>ther the Church of <hi>Rome</hi> was not as good a Church when your Predeceſſors left her, as when they received their Or<g ref="char:EOLhyphen"/>dination from her, <hi>&amp;c.</hi>
+            </p>
+            <p>To this you anſwer, That <hi>ſhe was as good when you left her, as ſhe was when Ordination was received from her.</hi> And fur<g ref="char:EOLhyphen"/>ther you ſay, <hi>You did not forſake her as ſhe was a Spouſe of Chriſt, but as ſhe was an HARLOT</hi> &amp;c.</p>
+            <p>Sir, I ſee now you are puzzeled, indeed; for you grant ſhe was as good when you left her, as ſhe was when your Predeceſſors were ordained by her.</p>
+            <p>And after you ſay, <hi>She was not forſaken as Chriſt's Spouſe, but as a Whore or Harlot.</hi>
+            </p>
+            <p>So then it appears by your own grant, That ſhe was none of Chriſt's Spouſe or Church at the time ſhe did ordain your Predeceſſors: for you ſay, <hi>She was a Harlot when you left her;</hi> and then you ſay, <hi>She was as honeſt as when your Predeceſſors were ordained by her.</hi>
+            </p>
+            <p>Is it not a ſhame then, that you ſhould ſay, That you are Legitimate? when afer you have taken pains to prove it, you face about, as though it were too hard a Task for you, and in words at length call your Mother <hi>a Where:</hi> for what do you leſs, when you call her <hi>a Harlot?</hi> in <hi>pag.</hi> 39. at the beginning of it. Is not this madneſs to a great degree, that you ſhould ſay, <hi>Rome</hi> was none of Chriſt's Spouſe, but a Harlot; and yet labour to prove, (if you could) That at this time in the middeſt of her Whoredoms, ſhe had power to ordain Miniſters to preach Chriſt? Pray tell me, why any man might not have taken upon him to ordain, as well
+<pb n="44" facs="tcp:119033:26"/>as <hi>Rome,</hi> if this be true that you ſay. Did ever our Lord Chriſt give the power of Ordination of Miniſters to any but his Spouſe or Church, whereof he is the Head? and whenſoever ſhe ſhall turn Whore, and proſtitute her ſelf to other Lovers, hath ſhe not loſt this Power and Authority? is ſhe not then like unſavoury Salt, fit for nothing? and yet by your Logick, ſhe hath Authority from Chriſt to ordain Miniſters to preach the Goſpel.</p>
+            <p>This very ſaying of yours, <hi>viz.</hi> That your Mother, the Church of <hi>Rome,</hi> was a Whore at the time your Predeceſſors were ordained by her, confutes all your conceits of a lawful Succeſſion.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>29</label> I proceed to the twenty ninth Queſtion, where I demand, If all the Miniſters that were in <hi>England</hi> be<g ref="char:EOLhyphen"/>fore <hi>Austin</hi> the Monk, were not brought into communi<g ref="char:EOLhyphen"/>on with the Roman-Church? And this was the ſum of that Queſtion.</p>
+            <p>To which you make no anſwer; but in effect ask me the ſame thing over again, <hi>viz. Whether</hi> Gildas <hi>doth not report of a Miniſtery in</hi> England, <hi>before</hi> Auſtin <hi>the Monk?</hi> &amp;c. and <hi>Whether there might not remain thouſands that had not bowed their knee to</hi> Baal, <hi>and we not know of it?</hi>
+            </p>
+            <p>To this I anſwer, That then your Miniſtery could not be de<g ref="char:EOLhyphen"/>rived from the Britiſh Succeſſion, if you did not know whe<g ref="char:EOLhyphen"/>ther they did bow their knee or no. But if what you ſaid be<g ref="char:EOLhyphen"/>fore was true, That the Church of <hi>Rome</hi> had a power to ordain in the midſt of their pollutions, then it is no great matter whether they did bow to <hi>Baal</hi> or no, as to the matter in queſtion, ſeeing that if they had, by your Logick, it could not have hindred your lawful Succeſſion, from them.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>30</label> To my thirtieth Queſtion, which demands, Whether there was in <hi>England</hi> a Succeſſion of a true Church, ſeparated from <hi>Rome,</hi> all the time the Papal Power was ex<g ref="char:EOLhyphen"/>erciſed here? and how it did appear, That the Succeſſion of the Miniſtery of <hi>England,</hi> was from this reformed, rather then the Papal Line?</p>
+            <pb n="45" facs="tcp:119033:26"/>
+            <p>You anſwer as before, That <hi>there might be a Succeſſion, though we know not of it,</hi> &amp;c.</p>
+            <p>This being the ſame with the former, let the ſame Anſwer ſuffice; onely let me tell you, That it is very improbable, that a Church ſhould remain in <hi>England</hi> in oppoſition to <hi>Rome,</hi> all the time the Papal Power was here,<note place="margin">Witneſs thoſe that were ſlain at <hi>Bangor.</hi>
+               </note> ſince <hi>Auſtin</hi> the Monk by force and arms was reſtleſs in ſubjecting the Britains in all parts to the See of <hi>Rome.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>31</label> I proceed to the next Queſtion, which doth demand, Whether it was not a ſin to leave <hi>Rome</hi> as a Cage of every unclean thing, if ſhe was entruſted with the Ad<g ref="char:EOLhyphen"/>miniſtration of Chriſt's Ordinances, as a Church, <hi>&amp;c.</hi> This was the ſubſtance of the Queſtion.</p>
+            <p>Upon which you query, <hi>Whether ſhe may not be a Cage of every unclean thing, and yet have Gods ſacred Ordinances among them?</hi>
+            </p>
+            <p>This is the ſum of your Queſtion, unto which you would give light by ſeveral ſimilitudes: one is, That <hi>if a Thief have a Bible in his pocket, he is notwithſtanding a Thief,</hi> Hence you would infer, <hi>That Rome may be poſſeſt with Gods Ordi<g ref="char:EOLhyphen"/>nances, though they are Thieves.</hi>
+            </p>
+            <p>But have you forgot your ſelf? did not you ſay, That <hi>the receiver was as bad as the thief?</hi> pag. 21. Now then, if this be true, do you not very craftily call the Clergy Thieves? for they all (you ſay) did receive their Ordination from them.</p>
+            <p>You further ſay, That <hi>the cenſers</hi> Corah <hi>burned incenſe in, were the Lords,</hi> &amp;c.</p>
+            <p>Hence you would innfer, That <hi>Ordination is Gods Ordi<g ref="char:EOLhyphen"/>nance, though it be in the hands of unholy perſons,</hi> &amp;c.</p>
+            <p>To which I anſwer, That the Ordinances are God's, as the Cenſers were; but as <hi>Korah</hi> did wickedly in uſing them, ſo did the Company that partook with him; and it was not their crying out, That <hi>the cenſers were holy,</hi> that would excuſe them: ſo it is not your ſaying, That <hi>Ordina<g ref="char:EOLhyphen"/>tion of Miniſters is a holy Ordinance,</hi> that will excuſe Apo<g ref="char:EOLhyphen"/>ſtates
+<pb n="46" facs="tcp:119033:27"/>in adminiſtring of it, or you in receiving ſuch Admi<g ref="char:EOLhyphen"/>niſtration.</p>
+            <p>Remember therefore this example of <hi>Korah,</hi> and do not you partake of <hi>Korah</hi>'s ſin; for though the Cenſers were ho<g ref="char:EOLhyphen"/>ly, he had no right to uſe them: ſee therefore how this ſimilitude makes againſt you, and fully ſhews your vanity, that all you glory in, is but what you have received from a <hi>Korah,</hi> a Thief, a Harlot, which had no more right to ad<g ref="char:EOLhyphen"/>miniſter it, then a Thief hath to diſtribute ſtolen Goods.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>32</label> I demanded in the next place, How <hi>Rome</hi> being the Cage of every unclean thing, could adminiſter ſo ſacred an Ordinance, as ordaining Goſpel-Miniſters? <hi>&amp;c.</hi>
+            </p>
+            <p>You ſay nothing in your Counter-Query, but what hath been ſaid before; onely you urge a freſh ſimilitude that is no<g ref="char:EOLhyphen"/>thing to your purpoſe, <hi>viz.</hi> That <hi>if my Accounts that be in my Book be juſt and right, they ought not to be nulled, becauſe my boy hath naughtily written them,</hi> &amp;c.</p>
+            <p>Hence you would infer, That <hi>Ordination is Gods Ordinance, though it hath been defaced by the Church of</hi> Romes <hi>unclean<g ref="char:EOLhyphen"/>neſs,</hi> &amp;c.</p>
+            <p>Which is not any part of my Queſtion: for though my Accounts are not to be diſowned becauſe my boy hath blot<g ref="char:EOLhyphen"/>ted them, yet my boy hath not power to diſpoſe of them acording to his invention: neither is it lawful for you, if I ſhall declare him to be a Thief, to receive any of my mo<g ref="char:EOLhyphen"/>ney from him, or take any diſcharge or acquittance for any debt that you owe me, at his hand. In like manner is it ſinful to receive Ordination from <hi>Rome:</hi> if they have turned Thieves and Robbers, as you ſay they are , then the Receiver is as bad as the Thief. So that I ſhall need no other wea<g ref="char:EOLhyphen"/>pon to fight with you then your own. But to proceed, I come now,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>33</label> To the thirty third Queſtion, wherein I demand, If the Church of <hi>Rome</hi> had power as a Church, and you did ſeparate becauſe of her corruptions, why then was Mr.
+<pb n="47" facs="tcp:119033:27"/>
+               <hi>Brooks</hi> to be blamed in ſeparating from the corruption of the Church of <hi>England?</hi> &amp;c.</p>
+            <p>In your many-headed Counter-Query, you ſay nothing that concerns me to anſwer; but this, <hi>viz,</hi> That <hi>becauſe I ſay, If</hi> Rome <hi>was a true Church,</hi> &amp;c. Hence you glory, and ſay, <hi>I yield up my weapons, by ſaying, IF</hi> Rome <hi>was a true Church.</hi>
+            </p>
+            <p>You demand then, <hi>To what end was all my other Queſti<g ref="char:EOLhyphen"/>ons?</hi> &amp;c.</p>
+            <p>I anſwer, That you had need go to School to learn to di<g ref="char:EOLhyphen"/>ſtinguiſh between an Hypothetical and a Categorical Propo<g ref="char:EOLhyphen"/>ſition: for is it not one thing to ſay, <hi>The Church of</hi> Rome <hi>IS a true Church;</hi> and another thing to ſay, <hi>IF ſhe be a true Church?</hi> Might you not as well have told your Reader, That <hi>David</hi> ſaid, He <hi>COULD</hi> take the Wings of the Morning, and flie, becauſe he ſaid, <hi>IF I take the wings of the morning,</hi> &amp;c.</p>
+            <p>This is the ground of your triumph; becauſe I ſay, <hi>If</hi> Rome <hi>was a true Church;</hi> you conclude I ſaid, <hi>She was a ture Church.</hi> O brave Logician! I ſee now there was a reaſon why you concealed your Name.</p>
+            <p>And for thoſe other queſtions that you ask me concerning Mr. <hi>Brooks</hi> his ſeparation, in <hi>p.</hi> 41, 42. I ſhall refer you to him, who very likely can give you a better Anſwer then you have given to my Queries.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>34</label> I demand in the next place, Why the Proteſtant Shepherds ſhear the Papiſts, ſince they judge them no Sheep of their fold? This is the ſum of the Queſtion.</p>
+            <p>In your Reply, you ſay little that concerns me to anſwer; onely, That <hi>the Church hath debarred Papiſts from commu<g ref="char:EOLhyphen"/>nion.</hi>
+            </p>
+            <p>And thereupon you demand, <hi>Whether it be not reaſon then, that they ſhould pay their tythes?</hi> &amp;c.</p>
+            <p>To this I anſwer, That there is little reaſon why any
+<pb n="48" facs="tcp:119033:28"/>body ſhould pay; but there is leſs reaſon why one that is put out of the Fold ſhould pay, then any: nay, there is no colour of reaſon, why any that are caſt out of the Church ſhould be forced to maintain the Miniſter. Should not you have done well to have proved this, before you went further? <hi>viz.</hi> That <hi>Chriſt would have men pay tythes to a Mi<g ref="char:EOLhyphen"/>niſter when they are thruſt out of their ſtock, and are put out of communion?</hi>
+            </p>
+            <p>The reſt of this Queſtion which you ask, relates to Mr. <hi>Brooks</hi> his practice, of which I have not ſo particular an in<g ref="char:EOLhyphen"/>formation, as an anſwer to it requires; and therefore I ſhall refer you to him for an Anſwer.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>35</label> I demand in the next place, Whether that the reaſon why you do exclude Papiſts, which is becauſe they do not reform, be not the reaſon why Mr. <hi>Brooks</hi> excludes ſcandalous perſons, <hi>viz.</hi> becauſe they do not reform? <hi>&amp;c.</hi>
+            </p>
+            <p>Your Anſwer hereunto, (as far as it doth concern me) is, That <hi>Mr.</hi> Brooks <hi>keeps people out of his Church, becauſe they do not own his Church, and diſown their own.</hi>
+            </p>
+            <p>To this I anſwer, That this is the reaſon why you reject Papiſts: for many of them are ſuch, whoſe lives are without reproof; ſo that you keep them out, becauſe they will not own your Church, and diſown their own.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>36</label> Your query upon my thirty ſixth Queſtion, is nothing but what hath been queried by you before, and is already anſwered, both in my Anſwer to M. <hi>Willes</hi> his Letter, in the beginning of this Book, and alſo in my Reply to the twenty ſixth Counter-Query.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>37</label> I query, ſince Ordination from <hi>Rome</hi> was thrown off upon a politick account, what ground the Mini<g ref="char:EOLhyphen"/>ſters of the Nation have to plead a neceſſity to preach with<g ref="char:EOLhyphen"/>out Ordination.</p>
+            <p>The ſubſtance of your Counter-Query to this, as it re<g ref="char:EOLhyphen"/>lates to your Succeſſion, is anſwered already in the thirty
+<pb n="49" facs="tcp:119033:28"/>ſixth Query: and for that part of your queſtion that relates to neceſſity, I anſwer,</p>
+            <p>Firſt, That there was no need of our firſt Reformers pleading neceſſity; for they were as idolatrous when they firſt rent from <hi>Rome,</hi> as they were when they were in com<g ref="char:EOLhyphen"/>munion with her.</p>
+            <p>Secondly, If they had ſeparated from the Church of <hi>Rome,</hi> becauſe of her uncleanneſs, then there was no need for them to plead neceſſity for their preaching without Ordina<g ref="char:EOLhyphen"/>tion, ſince they might have been ordained by the reformed Churches in other Countries, which had forſaken <hi>Rome</hi> be<g ref="char:EOLhyphen"/>fore them.</p>
+            <p>And thirdly, if Neceſſity may be a Warrant to them at that time, it was as good a Warrant to other Sects that re<g ref="char:EOLhyphen"/>volted from <hi>Rome,</hi> as well as it was for thoſe you call our firſt Reformers. So that then, if any <hi>Arrians</hi> or <hi>Socinians,</hi> &amp;c. ſhould have Rent from <hi>Rome,</hi> and gathered into a Con<g ref="char:EOLhyphen"/>gregation, they might have pleaded that they had a lawful Miniſtery, either by Succeſſion, in that ſome of them had been Prieſts before they revolted; or elſe by vertue of a Neceſſity, ſince a poſitive Law gives place to neceſſity. Would not you anſwer theſe men, that they are Miniſters by neither of theſe ways? and ſo do I anſwer you, as I have already done once and again.</p>
+            <p>And therefore, when Mr. <hi>Willes</hi> hath proved himſelf a lawful Miniſter, then I ſhall ſay, He came in by one of theſe ways: but till then, let me tell him, and you too, That any Sect that will take it for granted, that they have Miniſters among them, may as well juſtifie their Miniſters Authority, as Mr. <hi>Willes</hi> can do his, by taking it for granted he is a Mini<g ref="char:EOLhyphen"/>ſter of Chriſt, which he is never able to prove.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>38</label> I demanded, When the Line of Succeſſion was broke, whether <hi>then</hi> every one might not preach that were able, although it might not have been lawful before? <hi>&amp;c.</hi>
+            </p>
+            <p>This was the ſum of this Queſtion.</p>
+            <pb n="50" facs="tcp:119033:29"/>
+            <p>To which you ſay nothing but what hath been already anſwered over and over; onely you ask me, <hi>Whether a caſe of neceſſity makes any Miniſters but thoſe that are fitteſt, and un<g ref="char:EOLhyphen"/>dertake the charge.</hi>
+            </p>
+            <p>To which I anſwer, That if the Men that preach ſhall be their own Judges, who will not think that he is fit and able?</p>
+            <p>And was it not ſo with thoſe you call our firſt Reformers? were they not Judges of their own abilities, and ſo made themſelves Miniſters of their own heads? and by the ſame Rule, others may depart from them, as they departed from <hi>Rome;</hi> and take upon them to be Heads or Guides of a Congregation of people; eſpecially, if they can object con<g ref="char:EOLhyphen"/>ſiderable errors both in their Lives and Doctrines.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>39</label> My next Queſtion demands, how it can be a ſin for any to preach that are able, ſeeing there is no Ordi<g ref="char:EOLhyphen"/>nation on foot now, but what men take up by Neceſſity, <hi>&amp;c.</hi>
+            </p>
+            <p>This is the ſubſtance of the queſtion.</p>
+            <p>To which you ſay nothing, but what hath been ſaid and anſwered; only you demand, <hi>Whether there may not be a lawful ſucceſſion from thoſe that firſt took upon them this Office by Neceſ<g ref="char:EOLhyphen"/>ſity? and whether any in an ordinary lawful way can be in office, but thoſe that have it from that ſucceſſion?</hi> &amp;c.</p>
+            <p>To this I anſwer, That if what you here ſuppoſe be true, then why did not our firſt Reformers go to the Miniſters of other reformed Churches for Ordination, rather then take it from Mr. <hi>Scory,</hi> and that Faction? ſince there was divers reformed Churches where they might have been ordained without receiving it from <hi>Rome,</hi> or without putting them<g ref="char:EOLhyphen"/>ſelves into the Office upon a pretended neceſſity.</p>
+            <p>So that if what you ſay be true, That <hi>there may be a law<g ref="char:EOLhyphen"/>ful ſucceſſion from thoſe, who firſt became Officers by vertue of a neceſſity, and that it is ſinful to pretend to neceſſity afterwards;</hi> then our firſt Reformers cannot plead <hi>Not Guilty,</hi> ſince (as I have ſaid) there was no neceſſity for them to own an Ordi<g ref="char:EOLhyphen"/>nation
+<pb n="51" facs="tcp:119033:29"/>from <hi>Rome,</hi> becauſe they might have have had it in more purity from thoſe you call <hi>the reformed Churches,</hi> which had ſeparated from the Church of <hi>Rome</hi> before <hi>England.</hi>
+            </p>
+            <p>And ſecondly, There was no neceſſity for them to become Officers whithout Ordination, no more then there is now, becauſe there were many reformed Churches in being, to which they might have applied themſelves for Ordination, as in <hi>France</hi> and <hi>Germany,</hi> &amp;c.</p>
+            <p>Laſtly, if there was no true Church in the world that had power to ordain our new Biſhops; but they muſt make uſe of that which they received from <hi>Rome,</hi> and that this be a lawful Ordination, as you confeſs; then you muſt needs ſay, That the Churches of <hi>France, Germany, Geneva, Scotland,</hi> &amp;c. were no true Churches, and had no true and lawful ſucceſ<g ref="char:EOLhyphen"/>ſion; or if they had been true reformed Churches, either by ſucceſſion or neceſſity, why then did not our firſt Reformers go to ſome of theſe to be ordained? and ſince they did not, doth it not manifeſtly appear, that they were not true Mini<g ref="char:EOLhyphen"/>ſters by ſucceſſion, becauſe they received Ordination from <hi>Rome,</hi> whom you call a Harlot, when they might have had it from the Miniſters of the reformed Churches then in being? and becauſe there was reformed Churches in being, where they might have been ordained, they had no reaſon to plead to any neceſſity then of preaching without Ordination, any more then Mr. <hi>Brooks</hi> and others have, whom Mr. <hi>Willes</hi> and you condemn.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>40</label> I come now to the fortieth Queſtion that I propounded, which demands what Ground Mr. <hi>Willes</hi> had to baptize the children of wicked parents? <hi>&amp;c.</hi> And to this you ſay nothing but what I have anſwered already; only you beg a queſtion, <hi>viz.</hi> That <hi>children have a right to be members of a viſible Church.</hi> Which when you have proved it, <hi>viz.</hi> That infants, while they are in infancy, have an immediate right to be members of a Church in the new Teſtament, I ſhall con<g ref="char:EOLhyphen"/>feſs they may be baptized; but till then, I ſhall be againſt the baptizing any infant, for all you think I would conceal my Opinion in this matter.</p>
+            <pb n="52" facs="tcp:119033:30"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>41</label> In the next place I demand, Whether to bap<g ref="char:EOLhyphen"/>tize the children of wicked parents, be not contrary to the Opinion of the reformed Churches? You reply, That <hi>in the ſenſe M.</hi> Willes <hi>doth aſſert the baptizing of the children of wicked parents, it is lawful.</hi> To which I anſwer, That I have replied to Mr. <hi>Willes</hi> his ſenſe about the baptizing the children of wicked parents, in my Anſwer to his Letter, at the begin<g ref="char:EOLhyphen"/>ning of this Book. All that you ſay to this queſtion, beſides what I have anſwered, doth appertain to ſome practices of Mr. <hi>Brooks,</hi> which I ſhall not meddle with, becauſe I am not acquainted with them, only I take notice, that in <hi>p.</hi> 48. of your Book, before you end this queſtion, you ſay, That <hi>if the Miniſtery of</hi> England <hi>be Antichriſtian, then it will follow, that thoſe that they have baptized are unlawfully baptized,</hi> &amp;c. How ſhamefully do you contradict your ſelf? did you not ſay be<g ref="char:EOLhyphen"/>fore, That <hi>the corruptions of the diſpenſers of Ordinances could not make the Ordinances a nullity, though the Adminiſtrator was Antichriſtian?</hi> And do you not now in effect ſay, That <hi>bap<g ref="char:EOLhyphen"/>tiſm is a nullity, if the Adminiſtrator be Antichriſtian?</hi> for you ſay, <hi>If the National Miniſtery be Antichriſtian,</hi> (<hi>as Mr.</hi> Brooks <hi>ſaith</hi>) <hi>it will follow, that it is unlawful.</hi> Do you not now juſtifie all that I have ſaid, <hi>viz.</hi> If the firſt Reformers were ordain<g ref="char:EOLhyphen"/>ed by Antichriſtian Miniſters, that then it followeth, that their Ordination is a nullity; and that till they are ordain<g ref="char:EOLhyphen"/>ed again, they all of them preach without Ordination from Chriſt? Thus the Reader may ſee, that rather then you would want an arrow to ſhoot at M. <hi>Brooks,</hi> you would borrow one out of my quiver; and you do as good as confeſs as much, when you conclude, and ſay, That <hi>your heart trembleth, and you heartily wiſh, that you could not plead ſo ſtrongly, to ſadden honeſt hearts, to pleaſe me, and ſuch as I am.</hi> It ſeems then, your conſcience told you, That you had given away your cauſe to the grief of your ſelf and others, becauſe you could not help it; and therefore <hi>you wiſh heartily, that you COULD not plead ſo much, to pleaſe ſuch as I am.</hi> So that it ſeems, you are now forced to yield to your own grief and others of your friends, which you call <hi>honeſt hearts,</hi> &amp;c. it ſeems then, the truth is too ſtrong for you. But to proceed.</p>
+            <pb n="53" facs="tcp:119033:30"/>
+            <p>You come now to make Counter-queries, upon my 42, 43, 44, and 45 Queries that are grounded upon Mr. <hi>Willes</hi> his decrying the Fifth-Monarchy-Men, as the ſmoak of the bottomleſs pit: to this I have already given anſwer. And to the Counter-queries you propound upon my 46 queſti<g ref="char:EOLhyphen"/>on, touching Mr. <hi>Willes</hi> his Diſcourſe with me in private, I have already anſwered in my Reply to M. <hi>Willes</hi> his Letter.</p>
+            <p>And for your Counter-query that you make upon my 47 queſtion about Mr. <hi>Willes</hi> his perſwading a Gentleman to ap<g ref="char:EOLhyphen"/>prehend me for a Jeſuite, though you ſay, <hi>I am too blame to re<g ref="char:EOLhyphen"/>ceive an information from one man,</hi> &amp;c. Sure you are more too blame to believe the Accuſed's bare negation: but for the truth of what I object againſt M. <hi>Willes,</hi> viz. That he did deſire a Gentleman to apprehend me for a Jeſuite; I ſhall refer the Reader to the Gentleman aforenamed, who is ready to make oath for his further ſatisfaction.</p>
+            <p>And for your ſaying, That <hi>I did live a concealed life about</hi> London <hi>for many yeers; and therefore there might be ſome ground for people to ſuſpect me.</hi> Truely, I think there is more reaſon why I ſhould ſuſpect you, who are ſo concealed, as that you refuſe to let your Name or place of abode be known; I am ſure, this I never did upon any occaſion in all my life.</p>
+            <p>I come now to take notice of your Poſtſcript, wherein you tell your Reader of ſome things you have to advertiſe him.</p>
+            <p>
+               <hi>The firſt</hi> (you ſay) <hi>is, That it is a great ſign of truth, when men of corrupt mindes are enraged againſt it.</hi> Truely, then it is a ſign that we are in the truth; for men of corrupt mindes are againſt us, witneſs the rude behavior of thoſe that threat<g ref="char:EOLhyphen"/>ned to throw me over the Gallery for asking M. <hi>Willes</hi> a que<g ref="char:EOLhyphen"/>ſtion; and not onely thoſe, but ſuch as make a gain of god<g ref="char:EOLhyphen"/>lineſs, leaping from one benefice to another, where they can get the beſt fleece, and moſt profit; and that without they can have their own demands of their Pariſh, they will leave them, and go to another. I ſay, theſe are the men that cry down that which we profeſs, as the ſmoak of the bottomleſs pit, and would have men apprehended as Jeſuites, or any
+<pb n="54" facs="tcp:119033:31"/>how, ſo that they can be revenged upon them for not being of their Opinion: I ſay then, That if this may be called a good Argument, the Truth is of our ſide: but this is no in<g ref="char:EOLhyphen"/>fallible way of reaſoning. In the ſecond place, you tell your Reader, That <hi>thoſe that have deſigns againſt the truth, have uſu<g ref="char:EOLhyphen"/>ally ſome plauſible pretence to carry them on,</hi> &amp;c. To this I anſwer, That you are none of thoſe that have <hi>plauſible</hi> deſigns againſt the truth; though you have a great many, you have ſcarce one that is <hi>plauſible:</hi> for if you had, you would never have diſcover<g ref="char:EOLhyphen"/>ed to the world ſo much <hi>contradiction &amp; folly,</hi> as you have <hi>done</hi> in your Book; neither would you have declared, That <hi>your Mother, the Church of</hi> Rome, <hi>was a Harlot at the time that your Predeceſſors received Ordination from her;</hi> neither would you have compared her to <hi>Korah,</hi> &amp; to a Thief, as you have done; and yet juſtifie her ordaining Miniſters to preach the Go<g ref="char:EOLhyphen"/>ſpel. Would you have had your deſigns <hi>plauſible,</hi> you ſhould never have diſcovered the Pedegree of your Clergy, by cal<g ref="char:EOLhyphen"/>ling their Progenitors <hi>Thieves</hi> and <hi>Harlots:</hi> ſure this will not be <hi>plauſible</hi> to any that ſhall hear it, when they come to know, that your glorious ſucceſſion you ſo much boaſt of, came from ſuch infamous Predeceſſors. The third thing you inform your Reader in, is, That <hi>thoſe that deſign the propagating of er<g ref="char:EOLhyphen"/>rors, will for the moſt part oppoſe, but ſeldom aſſert,</hi> &amp;c. To this I reply, That this is the reaſon you anſwered by counter-que<g ref="char:EOLhyphen"/>ries; and that rather then you would aſſert any thing poſi<g ref="char:EOLhyphen"/>tively, you put your reſpondent to prove negations; when the contrary was found in me: for I offered to aſſert and prove againſt M. <hi>Willes,</hi> and he refuſed it. The laſt thing you inform your Reader, is, That <hi>this Book is your firſt,</hi> &amp;c. This you uſe as an argument why he ſhould excuſe your miſtakes, <hi>&amp;c.</hi> and truely, Sir, you had need of a pardon: and if you did not <hi>hope</hi> for it, you might <hi>fear</hi> to be corrected by a more ſevere hand then mine, for thoſe many <hi>impertinencies, ſlanders</hi> and <hi>contra<g ref="char:EOLhyphen"/>dictions</hi> that your Book is fraught withal; which I pray God help you to conſider of, that you may do nothing againſt the truth, but for it; which is the deſire of,</p>
+            <closer>
+               <signed>Sir, your Friend as far as you are the truth's, <hi>JER. IVES.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="appendix">
+            <pb n="55" facs="tcp:119033:31"/>
+            <head>AN APPENDIX.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>I Have for thy further ſatisfaction publiſhed ſome Obſerva<g ref="char:EOLhyphen"/>tions that I have collected, touching the Ordination of the National Miniſtery, ſince their revolt from <hi>Rome</hi> in the time of <hi>Hen.</hi> 8.</p>
+            <p>And firſt, it is obſervable, That the Church of <hi>England</hi> in the time of <hi>Hen.</hi> 8. did not ſeparate from <hi>Rome</hi> for conſci<g ref="char:EOLhyphen"/>ence, but for baſe ends, and for filthy lucre ſake, as appears by their retaining all the ſuperſtitious cuſtoms of the Roman Church, and their perſecuting to death thoſe that did out of a good conſcience oppoſe them. The truth hereof is plen<g ref="char:EOLhyphen"/>tifully manifeſted in the Hiſtories of that time.</p>
+            <p>Secondly, in the beginning of <hi>Edw.</hi> 6. his Reign, it is ob<g ref="char:EOLhyphen"/>ſervable, that the whole frame of Religion was altered, and ſuch a Reformation begun, as did agree with the wills of a Committee of twelve Men; and what form of worſhip ſhould be agreed upon by any ſeven of theſe, was to be obſerved by the whole Nation. This was ſuch great preſumption, that the like cannot be parallel'd in any Eccleſiaſtical ſtory; and yet now the Anabaptiſts are cried down, as Men full of preſumption, and ſuch as ſwerve from the ſteps of Tradition.</p>
+            <p>Thirdly, it is obſervable, That in the time of Queen <hi>Ma<g ref="char:EOLhyphen"/>ry,</hi> the Roman Religion was by her reſtored, and the Land was over-ſpread with Popery; and Popiſh Biſhops and Prieſts were ſet up in all parts of this Realm, and their Religion confirmed by Act of Parliament: and Cardinal <hi>Pool,</hi> the Pope's Legite, abſolved the Kingdom from the Excommu<g ref="char:EOLhyphen"/>nication, which the Pope had pronounced againſt the Land.</p>
+            <p>Fourthly, it is obſervable, That when Queen <hi>Elizabeth</hi> began to Reign, the whole Nation being over-ſpread with Popery; inſomuch, that all Biſhops that would not take the Oath of Supremacy, were turned out of their Biſhopricks; ſo that by this means, there was a want of Biſhops to ſupply
+<pb n="56" facs="tcp:119033:32"/>the places of thoſe which the Queen had ejected for Pope<g ref="char:EOLhyphen"/>ry: ſo that from that time to this, our Clergy have been at a loſs, touching their Ordination, as appears,</p>
+            <p>Firſt, becauſe they ſometimes plead an Ordination by ſuc<g ref="char:EOLhyphen"/>ceſſion; and ſometimes, they leave ſucceſſion, and plead to neceſſity, and an extraordinary Call.</p>
+            <p>Now, if they plead they have their Ordination by ſucceſ<g ref="char:EOLhyphen"/>ſion from <hi>Rome,</hi> then they muſt juſtifie <hi>Rome</hi> to be a true Church of Chriſt; and ſo are guilty of Schiſm, in renting, ſince they ſay, <hi>She was as good when they left her, as ſhe was when they were ordained by her.</hi> Again, if that <hi>Rome</hi> was not a Church of Chriſt when they were ordained by her, then they are at a loſs on the other hand, becauſe that they can<g ref="char:EOLhyphen"/>not prove a power of ordaining Miniſters, given to any out of the Church So that if their Ordination from <hi>Rome</hi> by ſuc<g ref="char:EOLhyphen"/>ceſſion be valued, <hi>Rome</hi> muſt be juſtified to be a true Church.</p>
+            <p>Again, if they ſhall plead to neceſſity and an extraordi<g ref="char:EOLhyphen"/>nary Call, here they are at a loſs again; becauſe, firſt there were many reformed Churches in the World, from whom they might have been ordained, without receiving Orders from <hi>Rome:</hi> and alſo, they had no reaſon to plead neceſſity of Preaching without Ordination, ſince they might have had it from thoſe Churches that were reformed before them. Laſt<g ref="char:EOLhyphen"/>ly, they fear to plead this Argument of neceſſity, leſt they ſhould juſtifie their Adverſaries the Anabaptiſts, and other Sectaries, which have more reaſon to plead neceſſity then themſelves. This appears by M. <hi>Willes</hi> his refuſal to reſolve me, when I was at his Houſe, Whether he was a Miniſter by a lawful ſucceſſion, or neceſſity, becauſe he knew not whe<g ref="char:EOLhyphen"/>ther I was a Jeſuite or an Anabaptiſt: for it is uſual for them to plead their Ordination by ſucceſſion, when they would oppoſe the Anabaptiſts, and to take up the Anabaptiſts Ar<g ref="char:EOLhyphen"/>gument of neceſſity when they oppoſe the Papiſts: and therefore Dr. <hi>Fulk</hi> and <hi>Whittingam,</hi> and divers others when they have had to do with Papiſts, have inveighed againſt Or<g ref="char:EOLhyphen"/>dination from them, as a ſtinking filthy thing, as I have alrea<g ref="char:EOLhyphen"/>dy obſerved. So that the great loſs they are at among them<g ref="char:EOLhyphen"/>ſelves,
+<pb n="57" facs="tcp:119033:32"/>touching the Derivation of their Authority, is one Reaſon why it may be queſtioned, Whether they have any or no?</p>
+            <p>The ſecond Reaſon is their unwillingneſs to anſwer thoſe Objections, that their Adverſaries the Papiſts, objected againſt their Ordination; which is a ſhrewd ſign, they feared it would not abide the trial.</p>
+            <p>As, 1. they objected, That <hi>the Engliſh Reformers in Queen</hi> Elizabeth<hi>'s time, went to a Popiſh Iriſh Biſhop that was then Pri<g ref="char:EOLhyphen"/>ſoner in the</hi> Tower, <hi>and promiſed him his liberty and a ſum of money, if he would ordain them Biſhops; but he refuſed.</hi>
+            </p>
+            <p n="2">2. It is objected by their Adverſaries the Papiſts, That <hi>they ſought to be ordained by the Biſhop of</hi> Landaff <hi>but he refuſed it.</hi>
+            </p>
+            <p n="3">3. It is further objected, That <hi>Parker, and others of the Queens new Biſhops, were ordained by one</hi> Scory <hi>a Priest, at a meeting which they had for this purpoſe, at the Nags-head-Tavern in</hi> Cheap-ſide.</p>
+            <p>To theſe Objections no Anſwer was given till Biſhop <hi>Maſons</hi> time, which was nigh fifty yeers after when moſt of the men were dead that were the chief Witneſſes to theſe things, though the Anſwer at that time much concerned them, theſe Objections being then the common talk of their Adverſaries.</p>
+            <p>A third Reaſon, why they are to be queſtioned, appears in the Caſe of the new-made Biſhop of <hi>Wincheſter,</hi> who in<g ref="char:EOLhyphen"/>dicted Biſhop <hi>Bonner;</hi> to which <hi>Bonner</hi> pleaded, That <hi>Win<g ref="char:EOLhyphen"/>cheſter was no Biſhop according to any Law;</hi> and the Judges in Queen <hi>Elizabeth</hi>'s time did reſolve, That <hi>Bonner</hi>'s Plea ſhould be received: See the <hi>Abridgement of</hi> Diers <hi>Reports,</hi> 7 Eliz. 234. And that they were at this time no Biſhops, neither by Statute-Law or Canon-Law, appears by the great induſtry and care that the new Biſhops took to get them<g ref="char:EOLhyphen"/>ſelves confirmed by Act of Parliament; the words of the Act are theſe, <hi>All Acts and things heretofore made and done, about the conſecration of Archbiſhops, Biſhops, Prieſts,</hi> &amp;c. <hi>by vertue of the Queens Letters Patents, ſince the begining of her Reign, be and ſhall be, by Authority of this Parliament, declared
+<pb n="58" facs="tcp:119033:33"/>and judged good and perfect,</hi> &amp;c. And a little after in the ſame Act it followeth, That <hi>all Archbiſhops, Biſhops, Prieſts,</hi> &amp;c. <hi>be declared in very deed, by the Authority aforeſaid, and enacted to be Archbiſhops, Biſhops, Prieſts,</hi> &amp;c. <hi>and rightly made, ordered and conſecrated: any Statute-Law, Canon-Law, or other thing to the contrary notwithſtanding,</hi> 8 Eliz. 1. So that you may ſee that the Clergy of <hi>England</hi> were no lawful or<g ref="char:EOLhyphen"/>dained Miniſters, neither by Statute nor Canon-Law, till the 8 of <hi>Eliz.</hi> in the Opinion of the Judges in the Caſe of <hi>Bonner</hi> and <hi>Horn</hi> before mentioned: which I deſire may be conſidered by all judicious Chriſtians; and then I queſtion not but they will ſee, that the Clergy of <hi>England</hi> have little rea<g ref="char:EOLhyphen"/>ſon to glory in their Apoſtolical ſucceſſion, and to cry down others that ſtand upon a more religious foot of account then themſelves.</p>
+            <div type="postscript">
+               <head>POSTSCRIPT.</head>
+               <opener>
+                  <salute>Reader,</salute>
+               </opener>
+               <p>WHereas Mr. <hi>Willes</hi> in the forementioned-Letter, tells a ſtory of a man that was in company with me at his houſe, as though he ſhould ſay, <hi>He had ra<g ref="char:EOLhyphen"/>ther hear the Devil then an ordained Miniſter;</hi> Give me leave to tell thee, That this ſcandal carries enough in the mouth of it, to diſcover the untruth thereof to all ſober and intelligent men: for I think no man in his wits, but had rather hear the worſt of men then the Devil himſelf. And if the Gentleman be points at, be Mr. <hi>Vancourt,</hi> as I know not who elſe he ſhould mean, I muſt tell thee, That his dayly hearing ſuch as are ordained in the ſenſe that Mr. <hi>Willes</hi> calls Ordination, is to all that know him, a ſufficient juſtification. And though Mr. <hi>Willes</hi> would have put ſuch a ſenſe upon ſome words that ſell from this Gentleman; yet Mr. <hi>Willes</hi> cannot but remember, that the Gentleman was of<g ref="char:EOLhyphen"/>fended at him, for that he miſrepreſented him to the company then preſent; and thereupon Mr. <hi>Willes</hi> was deſired not to miſconſtrue theſe words: and he pro<g ref="char:EOLhyphen"/>miſed that he would not, though ſince he hath done it, contrary to the Gentle<g ref="char:EOLhyphen"/>mans then-declared meaning, and his own promiſe.</p>
+               <closer>
+                  <salute>Vale.</salute>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>
+               <hi>Thou art deſired to take notice of theſe two errors</hi> viz. <hi>in the Epiſt read</hi> organical <hi>for</hi> original. <hi>pag 20. lin. 20. for</hi> Mat <hi>road</hi> Mal.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <p>
+               <hi>There is an excellent piece lately publiſhed, entituled,</hi> Goſpel-worſhip no work for infants; <hi>cleerly proving, the folly, vanity and deceit of in<g ref="char:EOLhyphen"/>fants Baptiſm: and that the true Worſhippers of God are believing men &amp; women, converted by the preaching of the word, not infants. By</hi> H. Haggar.</p>
+            <p>
+               <hi>Sound Doctrine, or the Doctrine of the Goſpel about the extent of Chriſts death: with a brief compendium of Doctrine of the holy Scri<g ref="char:EOLhyphen"/>ptures; clearing up the riches of God's love to all mankinde, and his deſires to ſave them that yet wilfully periſh. By</hi> William Pedelſden.</p>
+            <p>
+               <hi>Both to be ſold by</hi> Dan. White <hi>at the ſeven Stars in Pauls Church-yard.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
